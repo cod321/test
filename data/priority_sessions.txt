@@ -65,3 +65,15 @@ Tuesday, Nov 25
 - Space-time model reduction using Legendre-POD modes — 13:55–14:08, room 360AD
 - Optimizing Biomimetic Elastic Propulsors by Integrating Machine Learning and Bayesian Optimization — 14:08–14:21, room 320C
 - Feedback Control of Fluid-Structure Interaction via Koopman-based Reduced-Order Model — 14:08–14:21, room General Assembly Right
+
+Additional Quant-Friendly Sessions
+- Bayesian Characterization of Explosive Sources Using Fourier Neural Operators — Tue Nov 25, 08:00–08:13, room 360AD
+- Hierarchical Bayesian Framework for Regularizing Intracardiac 4D Flow — Mon Nov 24, 17:48–18:01, room 320C
+- Bayesian Experimental Design for Model Discrepancy Calibration: An Auto-Differentiable Ensemble Kalman Inversion Approach — Sun Nov 23, 17:51–18:04, room General Assembly Center
+- Categorical Batch Bayesian Optimisation for High-Dimensional Design in Particle-Laden Flows — Sun Nov 23, 17:25–17:38, room General Assembly Center
+- Fourier-Embedded Deep Operator Networks for High-Fidelity Parametric PDE Surrogates and Inverse Optimization — Tue Nov 25, 13:16–13:29, room General Assembly Right
+- Blending Data and Physics for Reduced-Order Modeling of Spatiotemporal Chaotic Dynamics — Tue Nov 25, 08:39–08:52, room 362EF
+- Interaction of POD Modes in Canonical Pipe Flows Quantified by Transfer Entropy — Mon Nov 24, 17:35–17:48, room General Assembly Center
+- Projection-Based Reduced Order Models for Fluid Structure Interaction Problems — Mon Nov 24, 18:14–18:27, room 362EF
+- Reduced-Order Modeling and Validation of Vortical Modes in Swirling Flows — Tue Nov 25, 09:05–09:18, room 351CF
+- Data-Driven Reduced Order Models Under Physical Constraints — Tue Nov 25, 08:00–08:13, room 362EF
