@@ -1,0 +1,280 @@
+code,title,type,start_local,end_local,facility,room,topics,tags,path
+1A,Andreas Acrivos memorial symposium,ORAL,2025-11-22 09:00,2025-11-22 17:15,George R. Brown Convention Center,310A,,Additional Fee; Community Engagement; Requires Separate Registration; Workshop,/dfd/2025/events/1A
+2A,Bud Homsy Memorial Symposium,FOCUS,2025-11-22 09:30,2025-11-22 16:50,George R. Brown Convention Center,310C,,Additional Fee; Community Engagement; Requires Separate Registration; Workshop,/dfd/2025/events/2A
+3A,"Applying for Jobs for Late-Stage Graduate Students &amp; Applying for Faculty Positions (and What Comes After) (Organizers: APS DFD Education and Outreach Committee- Points of contact: Alban Sauret, University of Maryland and Kartik Bulusu, The George Washington University; DFD member-at-large, Amrapalli Garanaik, Oregon State University )",MIXED,2025-11-22 18:30,2025-11-22 20:00,George R. Brown Convention Center,310B,,Additional Fee; Careers; Early Career; Graduate Students; Requires Separate Registration; Workshop,/dfd/2025/events/3A
+4A,Science and the State: Navigating the Evolving Landscape of U.S. Research Policy,MIXED,2025-11-22 19:30,2025-11-22 21:00,George R. Brown Convention Center,320A,,Community Engagement,/dfd/2025/events/4A
+A04,Biological Fluid Dynamics: Phonation and Flows,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,310A,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/A04
+A05,Biological Fluid Dynamics: Vesicles and Micelles,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/A05
+A06,Porous Media Flows I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,310C,Porous Media Flows,Contributed Session,/dfd/2025/events/A06
+A07,Drops: Super-Repellent Surfaces,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,320A,Drops,Contributed Session,/dfd/2025/events/A07
+A08,Drops: Complex Fluids,ORAL,2025-11-23 08:00,2025-11-23 09:05,George R. Brown Convention Center,320B,Drops,Contributed Session,/dfd/2025/events/A08
+A09,Biological Fluid Dynamics: Ecological Flows I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,320C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/A09
+A12,Biological Fluid Dynamics: Blood Vessels I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,340AB,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/A12
+A14,Bubbles: Cavitation I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,351AD,Bubbles,Contributed Session,/dfd/2025/events/A14
+A15,Compressible Flow: Computational Methods,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,351BE,Compressible Flows,Contributed Session,/dfd/2025/events/A15
+A16,Reacting Flows: Turbulent Combustion,ORAL,2025-11-23 08:00,2025-11-23 09:05,George R. Brown Convention Center,351CF,Reacting Flows,Contributed Session,/dfd/2025/events/A16
+A17,Modeling Boundary-Layer Turbulence,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,352DEF,Turbulence,Contributed Session,/dfd/2025/events/A17
+A18,Acoustic Diagnostics,ORAL,2025-11-23 08:00,2025-11-23 09:05,George R. Brown Convention Center,360AD,Acoustics,Contributed Session,/dfd/2025/events/A18
+A19,Convection and Buoyancy-Driven Flows: Environmental &amp; Stratified Convection,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,360BE,Convection and Buoyancy-Driven Flows,Contributed Session,/dfd/2025/events/A19
+A20,Surface Tension Effects: Particle Interactions,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,360CF,Surface Tension Effects,Contributed Session,/dfd/2025/events/A20
+A21,CFD: Algorithm I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,361AD,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/A21
+A22,CFD: Data Driven,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,361BE,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/A22
+A23,Flow Instability: Complex Fluids,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,361CF,Flow Instability,Contributed Session,/dfd/2025/events/A23
+A24,Particle-Laden Flows: Modeling and Theory I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,362AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/A24
+A25,Vortex Flows: Stability and Control,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,362BE,Vortex Dynamics and Vortex Flows,Contributed Session,/dfd/2025/events/A25
+A26,"Microscale and Nanoscale Flows: Particles, Drops, Bubbles I",ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,362EF,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/A26
+A27,General Fluid Dynamics: Theory,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,370AD,General Fluid Dynamics,Contributed Session,/dfd/2025/events/A27
+A28,Industrial Applications: General I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,370BE,Industrial Applications,Contributed Session,/dfd/2025/events/A28
+A29,Boundary Layers: Turbulent: Wall Modeling,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,370CF,Boundary Layers,Contributed Session,/dfd/2025/events/A29
+A30,Suspensions: Fluid-Particle Interaction,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,371AD,Suspensions,Contributed Session,/dfd/2025/events/A30
+A31,Bubbles: General,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,371BE,Bubbles,Contributed Session,/dfd/2025/events/A31
+A32,Flow Control I: General,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,371CF,Flow Control,Contributed Session,/dfd/2025/events/A32
+A33,Particle-Laden Flows: General I,ORAL,2025-11-23 08:00,2025-11-23 09:05,George R. Brown Convention Center,372AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/A33
+A34,Aerodynamics: Control,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,372BE,Aerodynamics,Contributed Session,/dfd/2025/events/A34
+A35,Multiphase Flows: Turbulence,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,372CF,Multiphase Flows,Contributed Session,/dfd/2025/events/A35
+A36,Energy: Floating Offshore Wind Turbines,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,381A,Energy,Contributed Session,/dfd/2025/events/A36
+A37,Multiphase Flows: General I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,381B,Multiphase Flows,Contributed Session,/dfd/2025/events/A37
+A38,Astrophysical Fluid Dynamics,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,381C,Astrophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/A38
+A11,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods I,ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,General Assembly Center,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/A11
+A13,"Microscale and Nanoscale Flows: Particles, Drops, Bubbles - Biofluidics",ORAL,2025-11-23 08:00,2025-11-23 09:31,George R. Brown Convention Center,General Assembly Left,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/A13
+A10,Geophysical Fluid Dynamics: Climate,ORAL,2025-11-23 08:00,2025-11-23 09:18,George R. Brown Convention Center,General Assembly Right,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/A10
+B00,Refreshment Break I,MIXED,2025-11-23 09:31,2025-11-23 10:31,George R. Brown Convention Center,Hall B,,Break,/dfd/2025/events/B00
+C04,Interact: Interesting Assorted Problems Involving Geophysical Flows,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,310A,Geophysical Fluid Dynamics,Interact Session,/dfd/2025/events/C04
+C05,"Interact: Biological Locomotion in Schools, Flocks, and Turbulent Environments",ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Interact Session,/dfd/2025/events/C05
+C06,Interact: Shock Waves and High-Speed Flows,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,310C,Compressible Flows,Interact Session,/dfd/2025/events/C06
+C07,Interact: Particle Laden Flows and Granular Flows,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,320A,Granular Flows,Interact Session,/dfd/2025/events/C07
+C09,"Interact: Interfacial Flows Dynamics: Drops, Bubbles, and Jets",ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,320BC,Drops,Interact Session,/dfd/2025/events/C09
+C12,Interact: HPC and Turbulence,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,340AB,Computational Fluid Dynamics,Interact Session,/dfd/2025/events/C12
+C14,Interact: Wind Energy,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,351ABDE,Energy,Interact Session,/dfd/2025/events/C14
+C18,Interact: Aerodynamics I,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,360ABDE,Aerodynamics,Interact Session,/dfd/2025/events/C18
+C21,Interact: Turbulence: Wall-Bounded,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,361ABDE,Turbulence,Interact Session,/dfd/2025/events/C21
+C27,Interact: Turbulent Boundary Layers I,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,370ABDE,Boundary Layers,Interact Session,/dfd/2025/events/C27
+C30,Interact: Biological and Bioinspired Vortex Dynamics; Vortex Rings and Pairs,FOCUS,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,371ABDE,Vortex Dynamics and Vortex Flows,Interact Session,/dfd/2025/events/C30
+C33,"Interact: Porous Media: Imbibition, Physical Chemistry, Complex Fluids, and Theoretical Methods",ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,372ABDE,Porous Media Flows,Interact Session,/dfd/2025/events/C33
+C36,Interact: Machine Learning for Fluid Mechanics,ORAL,2025-11-23 10:31,2025-11-23 12:31,George R. Brown Convention Center,381ABC,Low-Order Modeling and Machine Learning in Fluid Dynamics,Interact Session,/dfd/2025/events/C36
+D00,Lunch Break I (on your own),MIXED,2025-11-23 12:31,2025-11-23 14:00,,,,Break,/dfd/2025/events/D00
+D01,Young Investigator Workshop,MIXED,2025-11-23 12:31,2025-11-23 14:00,Marriott Hotel,Houston 1,,Additional Fee; Careers; Community Engagement; Early Career; Graduate Students; Requires Separate Registration; Undergraduate Students; Workshop,/dfd/2025/events/D01
+D02,Women in Fluid Dynamics Lunch,MIXED,2025-11-23 12:31,2025-11-23 14:00,Marriott Hotel,Houston 4,,Additional Fee; Community Engagement; Early Career; Graduate Students; Networking; Requires Separate Registration; Undergraduate Students; Workshop,/dfd/2025/events/D02
+E04,Interact: Convection and Buoyancy-Driven Flows,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,310A,Convection and Buoyancy-Driven Flows,Interact Session,/dfd/2025/events/E04
+E05,Interact: Active Matter: From Microswimmer Dynamics to Collective Behavior,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Interact Session,/dfd/2025/events/E05
+E06,"Interact: Turbulent Combustion, Hypersonic Reacting Flows and Reduced Order Models",ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,310C,Reacting Flows,Interact Session,/dfd/2025/events/E06
+E07,Interact: Non-Newtonian Flows,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,320A,Non-Newtonian Flows: General,Interact Session,/dfd/2025/events/E07
+E09,Interact: Multiphase Flow,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,320BC,Multiphase Flows,Interact Session,/dfd/2025/events/E09
+E12,Interact: Biomedical  and Physiological Flow Across Scales,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,340AB,,Interact Session,/dfd/2025/events/E12
+E14,Interact: Experimental Techniques,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,351ABDE,Experimental Techniques,Interact Session,/dfd/2025/events/E14
+E18,Interact: Aerodynamics II,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,360ABDE,Aerodynamics,Interact Session,/dfd/2025/events/E18
+E21,Interact: Turbulence: Fundamentals,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,361ABDE,Turbulence,Interact Session,/dfd/2025/events/E21
+E27,Interact: Turbulent Boundary Layers II,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,370ABDE,Boundary Layers,Interact Session,/dfd/2025/events/E27
+E30,Interact: Vortex Dynamics: Theoretical and Computational Aspects,ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,371ABDE,Vortex Dynamics and Vortex Flows,Interact Session,/dfd/2025/events/E30
+E33,"Interact: Porous Media: Multiphase flows, Electrokinetics, and Physiological Flows",ORAL,2025-11-23 14:00,2025-11-23 16:00,George R. Brown Convention Center,372ABDE,Porous Media Flows,Interact Session,/dfd/2025/events/E33
+CF01,APS DFD Career Fair (Sunday),MIXED,2025-11-23 16:00,2025-11-23 20:00,George R. Brown Convention Center,Hall A/1,,,/dfd/2025/events/CF01
+F00,Refreshment Break II,MIXED,2025-11-23 16:00,2025-11-23 16:40,George R. Brown Convention Center,Hall B,,Break,/dfd/2025/events/F00
+G02,Invited Talk: Vanishing or Transforming? The Journey of Classical Instabilities from Continuum to Rarefied Flows,INVITED,2025-11-23 16:40,2025-11-23 17:15,George R. Brown Convention Center,General Assembly Center,Rarefied Flows,Invited Session,/dfd/2025/events/G02
+G01,Invited Talk: FATIMA: Fog And Turbulence Interactions in the Marine Atmosphere,INVITED,2025-11-23 16:40,2025-11-23 17:15,George R. Brown Convention Center,General Assembly Left,Geophysical Fluid Dynamics,Invited Session,/dfd/2025/events/G01
+G03,Invited Talk: Planktonic Wonders of a Drifting World – Cell Biology of Climate Change,INVITED,2025-11-23 16:40,2025-11-23 17:15,George R. Brown Convention Center,General Assembly Right,Biological Fluid Dynamics,,/dfd/2025/events/G03
+H00,Mini-Break I,MIXED,2025-11-23 17:15,2025-11-23 17:25,,,,Break,/dfd/2025/events/H00
+J04,Biological Fluid Dynamics: Cardiac Flow I,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,310A,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/J04
+J05,Biological Fluid Dynamics: CSF Flows I,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/J05
+J06,Porous Media Flows II,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,310C,Porous Media Flows,Contributed Session,/dfd/2025/events/J06
+J07,Drops: Impact I,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,320A,Drops,Contributed Session,/dfd/2025/events/J07
+J08,Drops: General,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,320B,Drops,Contributed Session,/dfd/2025/events/J08
+J09,Biological Fluid Dynamics: Ecological Flows II,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,320C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/J09
+J12,Biological Fluid Dynamics: Blood Vessels II,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,340AB,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/J12
+J14,Bubbles: Cavitation II,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,351AD,Bubbles,Contributed Session,/dfd/2025/events/J14
+J15,Bubbles: Growth and Heat Transfer,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,351BE,Bubbles,Contributed Session,/dfd/2025/events/J15
+J16,Suspensions: Rheology,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,351CF,Suspensions,Contributed Session,/dfd/2025/events/J16
+J17,Modeling Buoyancy-Driven Turbulence,ORAL,2025-11-23 17:25,2025-11-23 18:30,George R. Brown Convention Center,352DEF,Turbulence,Contributed Session,/dfd/2025/events/J17
+J18,Boundary Layers: General,ORAL,2025-11-23 17:25,2025-11-23 18:17,George R. Brown Convention Center,360AD,Boundary Layers,Contributed Session,/dfd/2025/events/J18
+J19,Convection and Buoyancy-Driven Flows: Free Convection and Rayleigh-Benard,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,360BE,Convection and Buoyancy-Driven Flows,Contributed Session,/dfd/2025/events/J19
+J20,Non-Newtonian Flows: Instability,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,360CF,Non-Newtonian Flows: General,Contributed Session,/dfd/2025/events/J20
+J21,CFD: Algorithm II,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,361AD,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/J21
+J22,CFD: Application,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,361BE,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/J22
+J23,Flow Instability: Boundary Layers,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,361CF,Flow Instability,Contributed Session,/dfd/2025/events/J23
+J24,Particle-Laden Flows: Deformable Particles,ORAL,2025-11-23 17:25,2025-11-23 18:30,George R. Brown Convention Center,362AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/J24
+J25,Experimental Characterization of Turbulence,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,362BE,Turbulence,Contributed Session,/dfd/2025/events/J25
+J26,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods III,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,362EF,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/J26
+J27,Nonlinear Dynamics: Coherent Structures,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,370AD,Nonlinear Dynamics,Contributed Session,/dfd/2025/events/J27
+J28,Free-Surface Flows: Instability and Turbulence,ORAL,2025-11-23 17:25,2025-11-23 18:30,George R. Brown Convention Center,370BE,Free-Surface Flows,Contributed Session,/dfd/2025/events/J28
+J29,Flow Control II: Actuator Design and Analysis,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,370CF,Flow Control,Contributed Session,/dfd/2025/events/J29
+J30,Flow Control III: Theory,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,371AD,Flow Control,Contributed Session,/dfd/2025/events/J30
+J31,Geophysical Fluid Dynamics: Sediment Transport,ORAL,2025-11-23 17:25,2025-11-23 18:30,George R. Brown Convention Center,371BE,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/J31
+J32,Flow Control IV: Surface Texture,ORAL,2025-11-23 17:25,2025-11-23 18:43,George R. Brown Convention Center,371CF,Flow Control,Contributed Session,/dfd/2025/events/J32
+J33,Particle-Laden Flows: Particle-Resolved Simulations,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,372AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/J33
+J34,"Aerodynamics: Fluid-Structure Interactions, Membranes, Flutter",ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,372BE,Aerodynamics,Contributed Session,/dfd/2025/events/J34
+J35,Multiphase Flows: Atomization and Sprays,ORAL,2025-11-23 17:25,2025-11-23 18:17,George R. Brown Convention Center,372CF,Multiphase Flows,Contributed Session,/dfd/2025/events/J35
+J36,Energy: Tidal and Onshore Wind Turbines,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,381A,Energy,Contributed Session,/dfd/2025/events/J36
+J37,Nonlinear Dynamics: Model Reduction,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,381B,Nonlinear Dynamics,Contributed Session,/dfd/2025/events/J37
+J38,Rarefied Flows,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,381C,Rarefied Flows,Contributed Session,/dfd/2025/events/J38
+J11,Low-Order Modeling and Machine Learning in Fluid Dynamics: Design,ORAL,2025-11-23 17:25,2025-11-23 18:30,George R. Brown Convention Center,General Assembly Center,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/J11
+J13,Microscale and Nanoscale Flows: Devices and Applications,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,General Assembly Left,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/J13
+J10,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods II,ORAL,2025-11-23 17:25,2025-11-23 18:56,George R. Brown Convention Center,General Assembly Right,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/J10
+5A,Welcome Reception,MIXED,2025-11-23 19:00,2025-11-23 20:30,George R. Brown Convention Center,Avenida Plaza,,Activity; Community Engagement; Early Career; Graduate Students; Networking; Reception; Requires Separate Registration; Undergraduate Students,/dfd/2025/events/5A
+K02,GPC Climate Physics Informal Gathering,MIXED,2025-11-23 20:00,2025-11-23 22:00,George R. Brown Convention Center,"The Rustic (1836 Polk St, Houston, TX 77003)",,,/dfd/2025/events/K02
+K04,Biological Fluid Dynamics: Medical Devices,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,310A,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/K04
+K05,Biological Fluid Dynamics: Physiology,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/K05
+K06,Low-Order Modeling and Machine Learning in Fluid Dynamics: Other Applications,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,310C,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/K06
+K07,Drops: Walking &amp; Migration,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,320A,Drops,Contributed Session,/dfd/2025/events/K07
+K08,Drops: Instability and Break-up,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,320B,Drops,Contributed Session,/dfd/2025/events/K08
+K09,Biological Fluid Dynamics: Flapping,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,320C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/K09
+K12,Biological Fluid Dynamics: Cilia and Flagella,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,340AB,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/K12
+K11,Low-Order Modeling and Machine Learning in Fluid Dynamics: General I,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,350F,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/K11
+K14,Bubbles: Dynamics and Rupture,ORAL,2025-11-24 08:00,2025-11-24 10:23,George R. Brown Convention Center,351AD,Bubbles,Contributed Session,/dfd/2025/events/K14
+K15,Compressible Flow: Instability and Turbulence,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,351BE,Compressible Flows,Contributed Session,/dfd/2025/events/K15
+K16,Turbulence: Shear and Stratification,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,351CF,Turbulence,Contributed Session,/dfd/2025/events/K16
+K17,FLUIDS NEXT: Fluid Mechanics in Energy Harvesting Technologies: from Airfoils to the Sun,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,352DEF,Fluid Mechanics in Energy Harvesting Technologies: from Airfoils to the Sun,Contributed Session,/dfd/2025/events/K17
+K18,Aeroacoustics I,ORAL,2025-11-24 08:00,2025-11-24 10:10,George R. Brown Convention Center,360AD,Acoustics,Contributed Session,/dfd/2025/events/K18
+K19,"Convection and Buoyancy-Driven Flows: Heat Transfer, Instabilities &amp; Turbulence",ORAL,2025-11-24 08:00,2025-11-24 10:10,George R. Brown Convention Center,360BE,Convection and Buoyancy-Driven Flows,Contributed Session,/dfd/2025/events/K19
+K20,Reacting Flows: Computational Methods and Simulations,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,360CF,Reacting Flows,Contributed Session,/dfd/2025/events/K20
+K21,CFD: Immersed Boundary Methods,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,361AD,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/K21
+K22,"Quantitative Flow Visualization: PIV, PTV, PLIF",ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,361BE,Experimental Techniques,Contributed Session,/dfd/2025/events/K22
+K23,Flow Instability: Multiphase and Interfacial,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,361CF,Flow Instability,Contributed Session,/dfd/2025/events/K23
+K24,Particle-Laden Flows: Non-Spherical Particles,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,362AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/K24
+K25,Turbulence: Wall-Bounded,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,362BE,Turbulence,Contributed Session,/dfd/2025/events/K25
+K26,Non-Newtonian Flows: General,ORAL,2025-11-24 08:00,2025-11-24 10:23,George R. Brown Convention Center,362EF,Non-Newtonian Flows: General,Contributed Session,/dfd/2025/events/K26
+K27,Vortex Flows: Wakes,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,370AD,Vortex Dynamics and Vortex Flows,Contributed Session,/dfd/2025/events/K27
+K28,Waves: Surface Waves,ORAL,2025-11-24 08:00,2025-11-24 10:23,George R. Brown Convention Center,370BE,Waves,Contributed Session,/dfd/2025/events/K28
+K29,Geophysical Fluid Dynamics: Atmospheric,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,370CF,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/K29
+K30,Flow Instability: General Theory,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,371AD,Flow Instability,Contributed Session,/dfd/2025/events/K30
+K31,Suspensions: General,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,371BE,Suspensions,Contributed Session,/dfd/2025/events/K31
+K32,Flow Separation and Control,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,371CF,Separated Flows,Contributed Session,/dfd/2025/events/K32
+K33,Particle-Laden Flows: Particle-Turbulence Interactions,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,372AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/K33
+K34,Aerodynamics: Flapping and Rotating Wings,ORAL,2025-11-24 08:00,2025-11-24 09:57,George R. Brown Convention Center,372BE,Aerodynamics,Contributed Session,/dfd/2025/events/K34
+K35,Multiphase Flows: Computational Methods I,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,372CF,Multiphase Flows,Contributed Session,/dfd/2025/events/K35
+K36,CFD: General,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,381A,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/K36
+K37,Multiphase Flows: Cavitation and Aerated Flows,ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,381B,Multiphase Flows,Contributed Session,/dfd/2025/events/K37
+K38,Experimental Techniques: General,ORAL,2025-11-24 08:00,2025-11-24 10:36,George R. Brown Convention Center,381C,Experimental Techniques,Contributed Session,/dfd/2025/events/K38
+K01,MINISYMPOSIUM: Fluids Next: AI-enhanced Reasoning and Agentic Systems in Fluid Dynamics Research,INVITED,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,General Assembly Center,AI-Enhanced Reasoning and Agentic Systems in Fluid Dynamics Research,Invited Session; Mini-Symposium,/dfd/2025/events/K01
+K13,"Microscale and Nanoscale Flows: Interfaces, Wetting, Emulsions",ORAL,2025-11-24 08:00,2025-11-24 10:49,George R. Brown Convention Center,General Assembly Left,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/K13
+K10,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods IV,ORAL,2025-11-24 08:00,2025-11-24 10:23,George R. Brown Convention Center,General Assembly Right,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/K10
+CF02,APS DFD Career Fair (Monday),MIXED,2025-11-24 10:00,2025-11-24 17:00,George R. Brown Convention Center,Hall A/1,,,/dfd/2025/events/CF02
+L00,Refreshment Break III,MIXED,2025-11-24 10:49,2025-11-24 11:25,George R. Brown Convention Center,Hall B,,Break,/dfd/2025/events/L00
+M02,Invited Talk: Active Bacterial Pattern Formation in Evaporating Droplets,INVITED,2025-11-24 11:25,2025-11-24 12:00,George R. Brown Convention Center,General Assembly Center,Drops,Invited Session,/dfd/2025/events/M02
+M01,"Invited Talk: Near-Contact Interactions Between Soft, Rough and Wet Particles",INVITED,2025-11-24 11:25,2025-11-24 12:00,George R. Brown Convention Center,General Assembly Left,Suspensions,Invited Session,/dfd/2025/events/M01
+M03,Invited Talk: Modeling and Prediction of High-Speed Turbulent Boundary Layers,INVITED,2025-11-24 11:25,2025-11-24 12:00,George R. Brown Convention Center,General Assembly Right,Compressible Flows,Invited Session,/dfd/2025/events/M03
+N00,Mini-Break II,MIXED,2025-11-24 12:00,2025-11-24 12:05,,,,Break,/dfd/2025/events/N00
+P02,Invited Talk: Secondary Atomization of Droplets Under Extreme Conditions,INVITED,2025-11-24 12:05,2025-11-24 12:40,George R. Brown Convention Center,General Assembly Center,Drops,Invited Session,/dfd/2025/events/P02
+P01,Invited Talk: Generative Learning for Turbulence: Conditional Diffusion and Flow Matching Models for Spatiotemporal Flow Synthesis and Reconstruction,INVITED,2025-11-24 12:05,2025-11-24 12:40,George R. Brown Convention Center,General Assembly Left,Low-Order Modeling and Machine Learning in Fluid Dynamics,Invited Session,/dfd/2025/events/P01
+P03,Invited Talk: The Physics of Multiphase Detonations and their Application to Detonation Engines,INVITED,2025-11-24 12:05,2025-11-24 12:40,George R. Brown Convention Center,General Assembly Right,Reacting Flows,Invited Session,/dfd/2025/events/P03
+Q00,Lunch Break II (on your own),MIXED,2025-11-24 12:40,2025-11-24 14:10,,,,Break,/dfd/2025/events/Q00
+Q03,Student Lunch with the Experts,MIXED,2025-11-24 12:40,2025-11-24 14:10,George R. Brown Convention Center,Hall B,,Additional Fee; Early Career; Graduate Students; Networking; Requires Separate Registration; Undergraduate Students,/dfd/2025/events/Q03
+Q01,All the Faces of Fluid Dynamics Lunch,MIXED,2025-11-24 12:40,2025-11-24 14:10,Marriott Hotel,Houston 1,,Additional Fee; Community Engagement; Graduate Students; Networking; Requires Separate Registration; Undergraduate Students; Workshop,/dfd/2025/events/Q01
+Q02,"Fluids Education Lunch (Organizers: APS DFD Education and Outreach Committee- Points of contact: Kartik Bulusu, The George Washington University)",MIXED,2025-11-24 12:40,2025-11-24 14:10,Marriott Hotel,Houston 4,,Additional Fee; Community Engagement; Graduate Students; Networking; Requires Separate Registration; Undergraduate Students; Workshop,/dfd/2025/events/Q02
+R00,"Awards Session: Presentation of Awards and DFD Fellowships (Otto LaPorte Lecture, Stanley Corrsin Award)",INVITED,2025-11-24 14:10,2025-11-24 16:35,George R. Brown Convention Center,Grand Ballroom A,,Prize/Award,/dfd/2025/events/R00
+S00,Poster Session &amp; Refreshment Break (4:35 - 5:35 p.m.),POSTER,2025-11-24 16:35,2025-11-24 17:35,George R. Brown Convention Center,Hall A/1,,Break; Poster Session,/dfd/2025/events/S00
+Q04,Traveling Gallery Educational Workshop,MIXED,2025-11-24 17:30,2025-11-24 18:30,George R. Brown Convention Center,350C,,,/dfd/2025/events/Q04
+Q05,Tutorial for Authors and Referees,MIXED,2025-11-24 17:30,2025-11-24 18:30,George R. Brown Convention Center,350F,,,/dfd/2025/events/Q05
+T04,Biological Fluid Dynamics: Biofilms,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,310A,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/T04
+T05,Biological Fluid Dynamics: Cells and Bacteria,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/T05
+T06,Flow Control V: Separation,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,310C,Flow Control,Contributed Session,/dfd/2025/events/T06
+T07,Drops: Impact II,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,320A,Drops,Contributed Session,/dfd/2025/events/T07
+T08,Drops: Leidenfrost &amp; Levitation,ORAL,2025-11-24 17:35,2025-11-24 18:27,George R. Brown Convention Center,320B,Drops,Contributed Session,/dfd/2025/events/T08
+T09,Biological Fluid Dynamics: Cardiac Flow II,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,320C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/T09
+T12,Biological Fluid Dynamics: CSF Flows II,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,340AB,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/T12
+T14,Bubbles: Surfactants,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,351AD,Bubbles,Contributed Session,/dfd/2025/events/T14
+T15,"Compressible Flow: Supersonic, Hypersonic, and Experimentation",ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,351BE,Compressible Flows,Contributed Session,/dfd/2025/events/T15
+T16,Nonlinear Dynamics: Transition and Turbulence,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,351CF,Nonlinear Dynamics,Contributed Session,/dfd/2025/events/T16
+T17,Cascade Properties and Modeling,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,352DEF,Turbulence,Contributed Session,/dfd/2025/events/T17
+T18,CFD: Large-Eddy Simulation,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,360AD,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/T18
+T19,Aerodynamics: Vehicles,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,360BE,Aerodynamics,Contributed Session,/dfd/2025/events/T19
+T20,"Reacting Flows: Sprays, Emissions and Instabilities",ORAL,2025-11-24 17:35,2025-11-24 18:40,George R. Brown Convention Center,360CF,Reacting Flows,Contributed Session,/dfd/2025/events/T20
+T21,CFD: Algorithm III,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,361AD,Computational Fluid Dynamics,Contributed Session,/dfd/2025/events/T21
+T22,Granular Flows,ORAL,2025-11-24 17:35,2025-11-24 18:27,George R. Brown Convention Center,361BE,Granular Flows,Contributed Session,/dfd/2025/events/T22
+T23,Flow Instability: Vortex and Geophysical Flows,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,361CF,Flow Instability,Contributed Session,/dfd/2025/events/T23
+T24,Particle-Laden Flows: Modeling and Theory II,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,362AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/T24
+T25,Analytical and Numerical Turbulence Studies,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,362BE,Turbulence,Contributed Session,/dfd/2025/events/T25
+T26,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods V,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,362EF,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/T26
+T27,Nonlinear Dynamics: General,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,370AD,Nonlinear Dynamics,Contributed Session,/dfd/2025/events/T27
+T28,Flow Control VI: Passive,ORAL,2025-11-24 17:35,2025-11-24 18:40,George R. Brown Convention Center,370BE,Flow Control,Contributed Session,/dfd/2025/events/T28
+T29,Aerodynamics: Fixed Wings,ORAL,2025-11-24 17:35,2025-11-24 18:53,George R. Brown Convention Center,370CF,Aerodynamics,Contributed Session,/dfd/2025/events/T29
+T30,Free-Surface Flows: General,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,371AD,Free-Surface Flows,Contributed Session,/dfd/2025/events/T30
+T31,Geophysical Fluid Dynamics: Cryosphere,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,371BE,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/T31
+T32,Free-Surface Flows: Waves,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,371CF,Free-Surface Flows,Contributed Session,/dfd/2025/events/T32
+T33,Particle-Laden Flows: Droplets &amp; Clouds,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,372AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/T33
+T34,Energy: Wind Power Harvesting,ORAL,2025-11-24 17:35,2025-11-24 18:27,George R. Brown Convention Center,372BE,Energy,Contributed Session,/dfd/2025/events/T34
+T35,Turbulence: Wakes,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,372CF,Turbulence,Contributed Session,/dfd/2025/events/T35
+T36,Flow Control VII: Superhydrophobic and Hairy Surfaces,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,381A,Flow Control,Contributed Session,/dfd/2025/events/T36
+T37,Energy: General,ORAL,2025-11-24 17:35,2025-11-24 18:27,George R. Brown Convention Center,381B,Energy,Contributed Session,/dfd/2025/events/T37
+T38,Non-Newtonian Flows: Viscoplastic,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,381C,Non-Newtonian Flows: General,Contributed Session,/dfd/2025/events/T38
+T11,Low-Order Modeling and Machine Learning in Fluid Dynamics: General II,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,General Assembly Center,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/T11
+T13,Microscale and Nanoscale Flows: General,ORAL,2025-11-24 17:35,2025-11-24 19:06,George R. Brown Convention Center,General Assembly Left,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/T13
+T10,Drops: Condensation,ORAL,2025-11-24 17:35,2025-11-24 18:40,George R. Brown Convention Center,General Assembly Right,Drops,Contributed Session,/dfd/2025/events/T10
+Q06,Meet the Editors Reception,MIXED,2025-11-24 18:30,2025-11-24 20:00,George R. Brown Convention Center,McKinney Balcony,,,/dfd/2025/events/Q06
+7A,"APS Town Hall with John Doyle, APS President & Francis Slakey, APS Chief External Affairs Officer",MIXED,2025-11-24 19:15,2025-11-24 20:15,George R. Brown Convention Center,Grand Ballroom,,,/dfd/2025/events/7A
+6A,Underrepresented Minorities in Research,MIXED,2025-11-25 06:45,2025-11-25 07:45,Marriott Hotel,Galveston,,Additional Fee; Community Engagement; Graduate Students; Networking; Requires Separate Registration; Undergraduate Students,/dfd/2025/events/6A
+U04,Biological Fluid Dynamics: General,ORAL,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,310A,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/U04
+U05,Biological Fluid Dynamics: Microswimmers,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/U05
+U06,Biological Fluid Dynamics: Respiratory Flows,ORAL,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,310C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/U06
+U07,Drops: Impact III,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,320A,Drops,Contributed Session,/dfd/2025/events/U07
+U08,Drops: Evaporation,ORAL,2025-11-25 08:00,2025-11-25 09:44,George R. Brown Convention Center,320B,Drops,Contributed Session,/dfd/2025/events/U08
+U09,Swimming I: Fish and Undulatory Swimming,ORAL,2025-11-25 08:00,2025-11-25 09:57,George R. Brown Convention Center,320C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/U09
+U12,Biological Fluid Dynamics: Collective Behavior and Active Matter,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,340AB,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/U12
+U14,Compressible Flow: Shock Waves and Explosions,ORAL,2025-11-25 08:00,2025-11-25 09:44,George R. Brown Convention Center,351AD,Compressible Flows,Contributed Session,/dfd/2025/events/U14
+U15,FOCUS SESSION: Flow Control using Meta-Materials I,FOCUS,2025-11-25 08:00,2025-11-25 09:57,George R. Brown Convention Center,351BE,Flow Control using Meta-Materials,Focus Session,/dfd/2025/events/U15
+U16,Jets: General,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,351CF,Jets,Contributed Session,/dfd/2025/events/U16
+U17,Modeling and Applications,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,352DEF,Turbulence,Contributed Session,/dfd/2025/events/U17
+U18,Aeroacoustics II,ORAL,2025-11-25 08:00,2025-11-25 09:05,George R. Brown Convention Center,360AD,Acoustics,Contributed Session,/dfd/2025/events/U18
+U19,General Fluid Dynamics: General I,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,360BE,General Fluid Dynamics,Contributed Session,/dfd/2025/events/U19
+U20,Surface Tension Effects: Interfacial Phenomena,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,360CF,Surface Tension Effects,Contributed Session,/dfd/2025/events/U20
+U21,Fluid Dynamics Education and X,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,361AD,"Fluid Dynamics - Education, Outreach and Diversity",Contributed Session,/dfd/2025/events/U21
+U22,Experimental Techniques: Wind and Turbulence,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,361BE,Experimental Techniques,Contributed Session,/dfd/2025/events/U22
+U23,Flow Instability: Transition and Non Linearity,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,361CF,Flow Instability,Contributed Session,/dfd/2025/events/U23
+U24,Particle-Laden Flows: General II,ORAL,2025-11-25 08:00,2025-11-25 09:31,George R. Brown Convention Center,362AD,Particle-Laden Flows,Contributed Session,/dfd/2025/events/U24
+U25,Low-Order Modeling and Machine Learning in Fluid Dynamics: Flow Control,ORAL,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,362BE,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/U25
+U26,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods VI,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,362EF,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/U26
+U27,FOCUS SESSION: Turbulence in Atmospheric-Oceanic Boundary Layers I,FOCUS,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,370AD,Turbulence in Atmospheric-Oceanic Boundary Layers,Focus Session,/dfd/2025/events/U27
+U28,"Reacting Flows: Detonations, Explosions, and Chemical Kinetics",ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,370BE,Reacting Flows,Contributed Session,/dfd/2025/events/U28
+U29,Geophysical Fluid Dynamics: Stratified Flows,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,370CF,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/U29
+U30,Flow Instability: Rayleigh Taylor,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,371AD,Flow Instability,Contributed Session,/dfd/2025/events/U30
+U31,Geophysical Fluid Dynamics: Oceanographic,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,371BE,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/U31
+U32,Quantum Computing for Fluid Dynamics,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,371CF,Quantum Computing for Fluids,Contributed Session,/dfd/2025/events/U32
+U33,Multiphase Flows: Computational Methods II,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,372AD,Multiphase Flows,Contributed Session,/dfd/2025/events/U33
+U34,Aerodynamics: Theory and Methods,ORAL,2025-11-25 08:00,2025-11-25 09:57,George R. Brown Convention Center,372BE,Aerodynamics,Contributed Session,/dfd/2025/events/U34
+U35,Modeling Turbulence with LES,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,372CF,Turbulence,Contributed Session,/dfd/2025/events/U35
+U36,Particle-Laden Flows: Clustering,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,381A,Particle-Laden Flows,Contributed Session,/dfd/2025/events/U36
+U37,Multiphase Flows: Bubbly Flows,ORAL,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,381B,Multiphase Flows,Contributed Session,/dfd/2025/events/U37
+U38,Porous Media Flows III,ORAL,2025-11-25 08:00,2025-11-25 10:10,George R. Brown Convention Center,381C,Porous Media Flows,Contributed Session,/dfd/2025/events/U38
+U11,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods VII,ORAL,2025-11-25 08:00,2025-11-25 10:23,George R. Brown Convention Center,General Assembly Center,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/U11
+U13,Microscale and Nanoscale Flows: General II,ORAL,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,General Assembly Left,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/U13
+U10,Compressible Flow: Shock-Boundary Layer Interactions,ORAL,2025-11-25 08:00,2025-11-25 10:36,George R. Brown Convention Center,General Assembly Right,Compressible Flows,Contributed Session,/dfd/2025/events/U10
+CF03,APS DFD Career Fair (Tuesday),MIXED,2025-11-25 10:00,2025-11-25 13:00,George R. Brown Convention Center,Hall A/1,,,/dfd/2025/events/CF03
+V00,Refreshment Break IV,MIXED,2025-11-25 10:36,2025-11-25 11:05,George R. Brown Convention Center,Hall B,,Break,/dfd/2025/events/V00
+W01,Invited Talk: Ocean Spray Emissions by Bubble Bursting,INVITED,2025-11-25 11:05,2025-11-25 11:40,George R. Brown Convention Center,General Assembly Left,Geophysical Fluid Dynamics,Invited Session,/dfd/2025/events/W01
+W02,Invited Talk: Pattern Formation in Thin Films Flowing Over and Under Topographies - from Overhanging Rivulets to Rillenkarren,INVITED,2025-11-25 11:05,2025-11-25 11:40,George R. Brown Convention Center,General Assembly Right,,Invited Session,/dfd/2025/events/W02
+W03,Invited Talk: From Lab to Field: Harnessing Multiphase Flow Dynamics for Efficient Marine Oil Spill Recovery,INVITED,2025-11-25 11:05,2025-11-25 11:40,George R. Brown Convention Center,Grand Ballroom A,Multiphase Flows,Invited Session,/dfd/2025/events/W03
+X02,Francois Frenkiel Award in Fluid Dynamics Talk,INVITED,2025-11-25 11:40,2025-11-25 12:00,George R. Brown Convention Center,General Assembly Center,,Prize/Award,/dfd/2025/events/X02
+X01,Andreas Acrivos Dissertation Award for Fluid Mechanics Talk,INVITED,2025-11-25 11:40,2025-11-25 12:00,George R. Brown Convention Center,General Assembly Left,,Prize/Award,/dfd/2025/events/X01
+Y00,Lunch Break III (on your own),MIXED,2025-11-25 12:00,2025-11-25 12:50,,,,Break,/dfd/2025/events/Y00
+Z04,Biological Fluid Dynamics: Flying Insects,ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,310A,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/Z04
+Z05,Swimming III: Jellyfish and Friends,ORAL,2025-11-25 12:50,2025-11-25 14:34,George R. Brown Convention Center,310B,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/Z05
+Z06,Vortex Flows: Fluid-Structure Interaction,ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,310C,Vortex Dynamics and Vortex Flows,Contributed Session,/dfd/2025/events/Z06
+Z07,Drops: Wetting,ORAL,2025-11-25 12:50,2025-11-25 14:21,George R. Brown Convention Center,320A,Drops,Contributed Session,/dfd/2025/events/Z07
+Z08,Drops: Electric Fields Effects,ORAL,2025-11-25 12:50,2025-11-25 14:08,George R. Brown Convention Center,320B,Drops,Contributed Session,/dfd/2025/events/Z08
+Z09,Swimming II: Paddling and Propulsors,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,320C,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/Z09
+Z12,Biological Fluid Dynamics: Blood Vessels III,ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,340AB,Biological Fluid Dynamics,Contributed Session,/dfd/2025/events/Z12
+Z14,Thermoacoustics,ORAL,2025-11-25 12:50,2025-11-25 13:42,George R. Brown Convention Center,351AD,Acoustics,Contributed Session,/dfd/2025/events/Z14
+Z15,FOCUS SESSION: Flow Control using Meta-Materials II,ORAL,2025-11-25 12:50,2025-11-25 14:21,George R. Brown Convention Center,351BE,Flow Control using Meta-Materials,Focus Session,/dfd/2025/events/Z15
+Z16,Jets: Impinging and Interacting,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,351CF,Jets,Contributed Session,/dfd/2025/events/Z16
+Z17,Theory and Modeling,ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,352DEF,Turbulence,Contributed Session,/dfd/2025/events/Z17
+Z18,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods IX,ORAL,2025-11-25 12:50,2025-11-25 14:34,George R. Brown Convention Center,360AD,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/Z18
+Z19,General Fluid Dynamics: General II,ORAL,2025-11-25 12:50,2025-11-25 14:34,George R. Brown Convention Center,360BE,General Fluid Dynamics,Contributed Session,/dfd/2025/events/Z19
+Z20,Industrial Applications: General II,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,360CF,Industrial Applications,Contributed Session,/dfd/2025/events/Z20
+Z22,Experimental Techniques: Multiphase and Compressible Flows,ORAL,2025-11-25 12:50,2025-11-25 14:21,George R. Brown Convention Center,361BE,Experimental Techniques,Contributed Session,/dfd/2025/events/Z22
+Z23,Flow Instability: Richtmyer-Meshkov and Pulsating Flows,ORAL,2025-11-25 12:50,2025-11-25 14:08,George R. Brown Convention Center,361CF,Flow Instability,Contributed Session,/dfd/2025/events/Z23
+Z24,"Boundary Layers: Surface Effects, Features, Roughness",ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,362AD,Boundary Layers,Contributed Session,/dfd/2025/events/Z24
+Z25,Turbulence and Scalar Transport,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,362BE,Turbulence,Contributed Session,/dfd/2025/events/Z25
+Z26,Free-Surface Flows: Interaction with Structures,ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,362EF,Free-Surface Flows,Contributed Session,/dfd/2025/events/Z26
+Z27,FOCUS SESSION: Turbulence in Atmospheric-Oceanic Boundary Layers II,FOCUS,2025-11-25 12:50,2025-11-25 14:21,George R. Brown Convention Center,370AD,Turbulence in Atmospheric-Oceanic Boundary Layers,Focus Session,/dfd/2025/events/Z27
+Z28,"Waves: Internal and Interfacial Waves, Nonlinear Dynamics",ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,370BE,Waves,Contributed Session,/dfd/2025/events/Z28
+Z29,Fluid Dynamics Education with and without AI,ORAL,2025-11-25 12:50,2025-11-25 14:34,George R. Brown Convention Center,370CF,"Fluid Dynamics - Education, Outreach and Diversity",Contributed Session,/dfd/2025/events/Z29
+Z30,Boundary Layers: Turbulent: Curvature and Pressure Gradient Effects,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,371AD,Boundary Layers,Contributed Session,/dfd/2025/events/Z30
+Z31,Geophysical Fluid Dynamics: Air-Sea Interaction,ORAL,2025-11-25 12:50,2025-11-25 14:34,George R. Brown Convention Center,371BE,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/Z31
+Z32,Geophysical Fluid Dynamics: Rotating Flows,ORAL,2025-11-25 12:50,2025-11-25 14:08,George R. Brown Convention Center,371CF,Geophysical Fluid Dynamics,Contributed Session,/dfd/2025/events/Z32
+Z33,Multiphase Flows: Modeling and Theory,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,372AD,Multiphase Flows,Contributed Session,/dfd/2025/events/Z33
+Z34,"Flow Control VIII: Coherent Structures, Vorticies and Turbulence",ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,372BE,Flow Control,Contributed Session,/dfd/2025/events/Z34
+Z35,Experimental Environmental Turbulence,ORAL,2025-11-25 12:50,2025-11-25 14:08,George R. Brown Convention Center,372CF,Turbulence,Contributed Session,/dfd/2025/events/Z35
+Z36,Magnetohydrodynamics,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,381A,Magnetohydrodynamics,Contributed Session,/dfd/2025/events/Z36
+Z37,Multiphase Flows: General II,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,381B,Multiphase Flows,Contributed Session,/dfd/2025/events/Z37
+Z38,Electrokinetic Flows,ORAL,2025-11-25 12:50,2025-11-25 15:00,George R. Brown Convention Center,381C,Electrokinetic Flows,Contributed Session,/dfd/2025/events/Z38
+Z11,Low-Order Modeling and Machine Learning in Fluid Dynamics: General III,ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,General Assembly Center,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/Z11
+Z13,"Microscale and Nanoscale Flows: Particles, Drops, Bubbles II",ORAL,2025-11-25 12:50,2025-11-25 14:47,George R. Brown Convention Center,General Assembly Left,Microscale and Nanoscale Flows,Contributed Session,/dfd/2025/events/Z13
+Z10,Low-Order Modeling and Machine Learning in Fluid Dynamics: Methods VIII,ORAL,2025-11-25 12:50,2025-11-25 14:34,George R. Brown Convention Center,General Assembly Right,Low-Order Modeling and Machine Learning in Fluid Dynamics,Contributed Session,/dfd/2025/events/Z10
