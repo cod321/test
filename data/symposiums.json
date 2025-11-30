@@ -1,0 +1,48 @@
+[
+  {
+    "code": "1A",
+    "title": "Andreas Acrivos memorial symposium",
+    "type": "ORAL",
+    "start_local": "2025-11-22 09:00",
+    "end_local": "2025-11-22 17:15",
+    "room": "310A",
+    "facility": "George R. Brown Convention Center",
+    "tags": [
+      "Additional Fee",
+      "Community Engagement",
+      "Requires Separate Registration",
+      "Workshop"
+    ],
+    "url": "https://schedule.aps.org/dfd/2025/events/1A"
+  },
+  {
+    "code": "2A",
+    "title": "Bud Homsy Memorial Symposium",
+    "type": "FOCUS",
+    "start_local": "2025-11-22 09:30",
+    "end_local": "2025-11-22 16:50",
+    "room": "310C",
+    "facility": "George R. Brown Convention Center",
+    "tags": [
+      "Additional Fee",
+      "Community Engagement",
+      "Requires Separate Registration",
+      "Workshop"
+    ],
+    "url": "https://schedule.aps.org/dfd/2025/events/2A"
+  },
+  {
+    "code": "K01",
+    "title": "MINISYMPOSIUM: Fluids Next: AI-enhanced Reasoning and Agentic Systems in Fluid Dynamics Research",
+    "type": "INVITED",
+    "start_local": "2025-11-24 08:00",
+    "end_local": "2025-11-24 10:49",
+    "room": "General Assembly Center",
+    "facility": "George R. Brown Convention Center",
+    "tags": [
+      "Invited Session",
+      "Mini-Symposium"
+    ],
+    "url": "https://schedule.aps.org/dfd/2025/events/K01"
+  }
+]

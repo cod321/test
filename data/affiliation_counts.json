@@ -1,0 +1,2986 @@
+[
+  [
+    "Georgia Institute of Technology",
+    52
+  ],
+  [
+    "Stanford University",
+    46
+  ],
+  [
+    "University of Michigan",
+    42
+  ],
+  [
+    "Johns Hopkins University",
+    39
+  ],
+  [
+    "Princeton University",
+    38
+  ],
+  [
+    "Massachusetts Institute of Technology",
+    35
+  ],
+  [
+    "Brown University",
+    34
+  ],
+  [
+    "Cornell University",
+    30
+  ],
+  [
+    "Purdue University",
+    30
+  ],
+  [
+    "University of Minnesota",
+    28
+  ],
+  [
+    "Caltech",
+    24
+  ],
+  [
+    "University of Houston",
+    24
+  ],
+  [
+    "University of Illinois at Urbana-Champaign",
+    24
+  ],
+  [
+    "University of California, Los Angeles",
+    23
+  ],
+  [
+    "Texas A&M University College Station",
+    20
+  ],
+  [
+    "Imperial College London",
+    18
+  ],
+  [
+    "University of Illinois Urbana-Champaign",
+    18
+  ],
+  [
+    "Pennsylvania State University",
+    17
+  ],
+  [
+    "California Institute of Technology",
+    16
+  ],
+  [
+    "George Washington University",
+    16
+  ],
+  [
+    "University of Colorado, Boulder",
+    16
+  ],
+  [
+    "University of Pennsylvania",
+    16
+  ],
+  [
+    "Arizona State University",
+    15
+  ],
+  [
+    "University of Rochester",
+    15
+  ],
+  [
+    "University of Washington",
+    15
+  ],
+  [
+    "University of Wisconsin - Madison",
+    15
+  ],
+  [
+    "Indian Institute of Technology Madras",
+    14
+  ],
+  [
+    "Los Alamos National Laboratory (LANL",
+    14
+  ],
+  [
+    "Northwestern University",
+    14
+  ],
+  [
+    "University of Texas at Austin",
+    14
+  ],
+  [
+    "Auburn University",
+    13
+  ],
+  [
+    "Florida State University",
+    13
+  ],
+  [
+    "Lehigh University",
+    13
+  ],
+  [
+    "Virginia Tech",
+    13
+  ],
+  [
+    "Iowa State University",
+    12
+  ],
+  [
+    "KAIST",
+    12
+  ],
+  [
+    "Oklahoma State University-Stillwater",
+    12
+  ],
+  [
+    "Portland State University",
+    12
+  ],
+  [
+    "Seoul National University",
+    12
+  ],
+  [
+    "University of California, San Diego",
+    12
+  ],
+  [
+    "University of Maryland College Park",
+    12
+  ],
+  [
+    "University of North Carolina at Chapel Hill",
+    12
+  ],
+  [
+    "Center for Turbulence Research, Stanford University",
+    11
+  ],
+  [
+    "ETH Zurich",
+    11
+  ],
+  [
+    "Texas A&M University",
+    11
+  ],
+  [
+    "University of Edinburgh",
+    11
+  ],
+  [
+    "University of Massachusetts Amherst",
+    11
+  ],
+  [
+    "University of New Hampshire",
+    11
+  ],
+  [
+    "University of South Florida",
+    11
+  ],
+  [
+    "Lawrence Livermore National Laboratory",
+    10
+  ],
+  [
+    "New Mexico State University",
+    10
+  ],
+  [
+    "Technion - Israel Institute of Technology",
+    10
+  ],
+  [
+    "Univ of Cambridge",
+    10
+  ],
+  [
+    "University of California, Berkeley",
+    10
+  ],
+  [
+    "University of California, Irvine",
+    10
+  ],
+  [
+    "University of Florida",
+    10
+  ],
+  [
+    "University of Pittsburgh",
+    10
+  ],
+  [
+    "University of Southern California",
+    10
+  ],
+  [
+    "University of Utah",
+    10
+  ],
+  [
+    "Michigan State University",
+    9
+  ],
+  [
+    "New Jersey Institute of Technology",
+    9
+  ],
+  [
+    "University of Notre Dame",
+    9
+  ],
+  [
+    "University of Oxford",
+    9
+  ],
+  [
+    "Duke University",
+    8
+  ],
+  [
+    "Louisiana State University",
+    8
+  ],
+  [
+    "San Diego State University",
+    8
+  ],
+  [
+    "Texas Tech University",
+    8
+  ],
+  [
+    "University of California, Santa Barbara",
+    8
+  ],
+  [
+    "University of Central Florida",
+    8
+  ],
+  [
+    "University of Massachusetts Dartmouth",
+    8
+  ],
+  [
+    "University of Melbourne",
+    8
+  ],
+  [
+    "University of Mississippi",
+    8
+  ],
+  [
+    "University of Texas Rio Grande Valley",
+    8
+  ],
+  [
+    "University of Virginia",
+    8
+  ],
+  [
+    "Yale University",
+    8
+  ],
+  [
+    "Brigham Young University",
+    7
+  ],
+  [
+    "Illinois Institute of Technology",
+    7
+  ],
+  [
+    "King Abdullah University of Science and Technology",
+    7
+  ],
+  [
+    "Rochester Institute of Technology",
+    7
+  ],
+  [
+    "Southern Methodist University",
+    7
+  ],
+  [
+    "Tohoku University, Japan",
+    7
+  ],
+  [
+    "University of Connecticut",
+    7
+  ],
+  [
+    "University of Nebraska - Lincoln",
+    7
+  ],
+  [
+    "Clemson University",
+    6
+  ],
+  [
+    "Florida Atlantic University",
+    6
+  ],
+  [
+    "King Abdullah Univ of Sci & Tech (KAUST",
+    6
+  ],
+  [
+    "North Carolina State University",
+    6
+  ],
+  [
+    "Seoul Natl Univ",
+    6
+  ],
+  [
+    "Texas A&M University-Corpus Christi",
+    6
+  ],
+  [
+    "Texas A&M University-Kingsville",
+    6
+  ],
+  [
+    "The University of Texas at Dallas",
+    6
+  ],
+  [
+    "The University of Tokyo",
+    6
+  ],
+  [
+    "Tohoku University",
+    6
+  ],
+  [
+    "University of Alabama",
+    6
+  ],
+  [
+    "University of California, Davis",
+    6
+  ],
+  [
+    "University of California, Riverside",
+    6
+  ],
+  [
+    "University of Texas at Dallas",
+    6
+  ],
+  [
+    "Virginia Polytechnic Institute and State University",
+    6
+  ],
+  [
+    "Case Western Reserve University",
+    5
+  ],
+  [
+    "City College of New York",
+    5
+  ],
+  [
+    "Colorado School of Mines",
+    5
+  ],
+  [
+    "Georgia State University",
+    5
+  ],
+  [
+    "Indian Institute Of Science",
+    5
+  ],
+  [
+    "Indian Institute of Technology - Kharagpur",
+    5
+  ],
+  [
+    "Indian Institute of Technology Delhi",
+    5
+  ],
+  [
+    "Indian Institute of Technology Kanpur",
+    5
+  ],
+  [
+    "Indian Institute of Technology Kanpur (IIT",
+    5
+  ],
+  [
+    "Max Planck Institute for Dynamics and Self-Organization",
+    5
+  ],
+  [
+    "Montana State University",
+    5
+  ],
+  [
+    "North Dakota State University",
+    5
+  ],
+  [
+    "Northeastern University",
+    5
+  ],
+  [
+    "Peking University",
+    5
+  ],
+  [
+    "Tokyo University of Agriculture and Technology",
+    5
+  ],
+  [
+    "Tokyo University of Science",
+    5
+  ],
+  [
+    "University of Alberta",
+    5
+  ],
+  [
+    "University of California San Diego",
+    5
+  ],
+  [
+    "University of California, Santa Cruz",
+    5
+  ],
+  [
+    "University of Chicago",
+    5
+  ],
+  [
+    "University of Iowa",
+    5
+  ],
+  [
+    "University of Memphis",
+    5
+  ],
+  [
+    "University of Michigan, Ann Arbor",
+    5
+  ],
+  [
+    "University of North Texas",
+    5
+  ],
+  [
+    "University of South Carolina",
+    5
+  ],
+  [
+    "University of Tennessee",
+    5
+  ],
+  [
+    "Vanderbilt University",
+    5
+  ],
+  [
+    "Baylor University",
+    4
+  ],
+  [
+    "Carnegie Mellon University",
+    4
+  ],
+  [
+    "Embry-Riddle Aeronautical University, Daytona Beach",
+    4
+  ],
+  [
+    "Federal University of Rio de Janeiro",
+    4
+  ],
+  [
+    "Harvard University",
+    4
+  ],
+  [
+    "Harvey Mudd College",
+    4
+  ],
+  [
+    "Indian Institute of Technology Kharagpur",
+    4
+  ],
+  [
+    "Nagoya University",
+    4
+  ],
+  [
+    "National Tsing Hua University",
+    4
+  ],
+  [
+    "New Mexico Institute of Mining and Technology",
+    4
+  ],
+  [
+    "Rensselaer Polytechnic Institute",
+    4
+  ],
+  [
+    "Sandia National Laboratories",
+    4
+  ],
+  [
+    "Seoul National University of Science and Technology",
+    4
+  ],
+  [
+    "South Dakota State University",
+    4
+  ],
+  [
+    "Stony Brook University",
+    4
+  ],
+  [
+    "Technion",
+    4
+  ],
+  [
+    "The Hong Kong University of Science and Technology",
+    4
+  ],
+  [
+    "The Hong Kong University of Science and Technology (HKUST",
+    4
+  ],
+  [
+    "University College London",
+    4
+  ],
+  [
+    "University of Bayreuth",
+    4
+  ],
+  [
+    "University of Calgary",
+    4
+  ],
+  [
+    "University of Cambridge",
+    4
+  ],
+  [
+    "University of Colorado Boulder",
+    4
+  ],
+  [
+    "University of Manchester",
+    4
+  ],
+  [
+    "University of North Carolina at Charlotte",
+    4
+  ],
+  [
+    "University of Oklahoma",
+    4
+  ],
+  [
+    "University of Udine",
+    4
+  ],
+  [
+    "Aix-Marseille University",
+    3
+  ],
+  [
+    "Binghamton University",
+    3
+  ],
+  [
+    "Boston University",
+    3
+  ],
+  [
+    "Bucknell University",
+    3
+  ],
+  [
+    "Centre College",
+    3
+  ],
+  [
+    "Colorado State University",
+    3
+  ],
+  [
+    "Columbia University",
+    3
+  ],
+  [
+    "Florida Institute of Technology",
+    3
+  ],
+  [
+    "Florida Polytechnic University",
+    3
+  ],
+  [
+    "Gwangju Institute of Science and Technology",
+    3
+  ],
+  [
+    "Indian Institute of Technology Bombay",
+    3
+  ],
+  [
+    "Indian Institute of Technology, Madras",
+    3
+  ],
+  [
+    "Institute of Science Tokyo",
+    3
+  ],
+  [
+    "Keio Univ",
+    3
+  ],
+  [
+    "Kent State University",
+    3
+  ],
+  [
+    "Korea University",
+    3
+  ],
+  [
+    "Kyushu University",
+    3
+  ],
+  [
+    "Liberty University",
+    3
+  ],
+  [
+    "Max Planck Institute for Solar System Research",
+    3
+  ],
+  [
+    "Mississippi State University",
+    3
+  ],
+  [
+    "Monash University",
+    3
+  ],
+  [
+    "Morgan State University",
+    3
+  ],
+  [
+    "New York University (NYU",
+    3
+  ],
+  [
+    "Oklahoma State University",
+    3
+  ],
+  [
+    "Oregon State University",
+    3
+  ],
+  [
+    "POSTECH",
+    3
+  ],
+  [
+    "Purdue University- West Lafayette",
+    3
+  ],
+  [
+    "Pusan National University",
+    3
+  ],
+  [
+    "Shanghai Jiao Tong University",
+    3
+  ],
+  [
+    "Sogang University",
+    3
+  ],
+  [
+    "South Dakota School of Mines & Technology",
+    3
+  ],
+  [
+    "State Univ of NY - Buffalo",
+    3
+  ],
+  [
+    "Syracuse University",
+    3
+  ],
+  [
+    "TU Darmstadt",
+    3
+  ],
+  [
+    "Texas A&M University\u2013Corpus Christi",
+    3
+  ],
+  [
+    "The Pennsylvania State University",
+    3
+  ],
+  [
+    "The University of Alabama",
+    3
+  ],
+  [
+    "The University of Hong Kong",
+    3
+  ],
+  [
+    "Trinity College",
+    3
+  ],
+  [
+    "Tulane University",
+    3
+  ],
+  [
+    "University of British Columbia",
+    3
+  ],
+  [
+    "University of Illinois at Chicago",
+    3
+  ],
+  [
+    "University of Illinois, Urbana Champaign",
+    3
+  ],
+  [
+    "University of Massachusetts Lowell",
+    3
+  ],
+  [
+    "University of Michigan- Ann Arbor",
+    3
+  ],
+  [
+    "University of Minnesota Duluth",
+    3
+  ],
+  [
+    "University of Missouri",
+    3
+  ],
+  [
+    "University of Nevada, Reno",
+    3
+  ],
+  [
+    "University of Sydney",
+    3
+  ],
+  [
+    "University of Texas at San Antonio",
+    3
+  ],
+  [
+    "University of Twente",
+    3
+  ],
+  [
+    "University of Vermont",
+    3
+  ],
+  [
+    "University of Warsaw",
+    3
+  ],
+  [
+    "University of Waterloo",
+    3
+  ],
+  [
+    "Utah State University",
+    3
+  ],
+  [
+    "Villanova University",
+    3
+  ],
+  [
+    "Warsaw University of Technology",
+    3
+  ],
+  [
+    "Warsaw University of Technology-IAAM",
+    3
+  ],
+  [
+    "Willamette University, Department of Physics",
+    3
+  ],
+  [
+    "Yonsei University",
+    3
+  ],
+  [
+    "Ajou University",
+    2
+  ],
+  [
+    "Argonne National Laboratory",
+    2
+  ],
+  [
+    "Aston University",
+    2
+  ],
+  [
+    "Barcelona Supercomputing Center",
+    2
+  ],
+  [
+    "Brigham Young University - Idaho",
+    2
+  ],
+  [
+    "CNRS",
+    2
+  ],
+  [
+    "Cardiovascular Research, Methodist Hospital",
+    2
+  ],
+  [
+    "Cardiovascular Research, Methodist Hospital, Merrillville",
+    2
+  ],
+  [
+    "Center for Fluid Mechanics, Brown University",
+    2
+  ],
+  [
+    "Center for Turbulence Research",
+    2
+  ],
+  [
+    "City University of Hong Kong",
+    2
+  ],
+  [
+    "Cleveland State University",
+    2
+  ],
+  [
+    "Coastal Carolina University",
+    2
+  ],
+  [
+    "Computational Turbulence and Visualization Lab., Department of Mechanical, Aerospace, & Industrial Engineering, University of Texas at San Antonio, TX 78249, USA.",
+    2
+  ],
+  [
+    "Consejo Superior de Investigaciones Cientificas (CSIC",
+    2
+  ],
+  [
+    "DTU",
+    2
+  ],
+  [
+    "Delft University of Technology",
+    2
+  ],
+  [
+    "Department of Mechanical Engineering, Myongji University",
+    2
+  ],
+  [
+    "Department of Mechanical Engineering, Texas A&M University",
+    2
+  ],
+  [
+    "Department of Mechanical Engineering, University of Washington",
+    2
+  ],
+  [
+    "Department of Mechanical and Aerospace Engineering,",
+    2
+  ],
+  [
+    "Department of Mechanical and Industrial Engineering, University of Illinois Chicago",
+    2
+  ],
+  [
+    "ETH Z\u00fcrich",
+    2
+  ],
+  [
+    "Ecole Polytechnique Federale de Lausanne",
+    2
+  ],
+  [
+    "Embry-Riddle Aeronautical University",
+    2
+  ],
+  [
+    "FAMU-FSU College of Engineering",
+    2
+  ],
+  [
+    "Federal Institute of Technology (EPFL",
+    2
+  ],
+  [
+    "Fudan University",
+    2
+  ],
+  [
+    "Graduate School of Doshisha University",
+    2
+  ],
+  [
+    "Graduate School of Engineering, Tokyo University of Science / Division of Innovation for Medical Information Technology, The Jikei University School of Medicine",
+    2
+  ],
+  [
+    "Gran Sasso Science Institute",
+    2
+  ],
+  [
+    "Hanyang University",
+    2
+  ],
+  [
+    "Indian Institute of Science, Bengaluru, India",
+    2
+  ],
+  [
+    "Indian Institute of Technology (IIT",
+    2
+  ],
+  [
+    "Indian Institute of Technology - Jodhpur (IIT",
+    2
+  ],
+  [
+    "Indian Institute of Technology - Kharagpur (IIT",
+    2
+  ],
+  [
+    "Indian Institute of Technology Hyderabad",
+    2
+  ],
+  [
+    "Indian Institute of Technology Hyderabad, India",
+    2
+  ],
+  [
+    "Indian Institute of Technology, Kharagpur",
+    2
+  ],
+  [
+    "Institute of Fundamental Technological Research, Polish Academy of Sciences",
+    2
+  ],
+  [
+    "Institute of Physics, Polish Academy of Sciences",
+    2
+  ],
+  [
+    "Kansai University",
+    2
+  ],
+  [
+    "Keio University",
+    2
+  ],
+  [
+    "Kogakuin University",
+    2
+  ],
+  [
+    "Korea Institute of Ocean Science & Technology (KIOST",
+    2
+  ],
+  [
+    "Kyoto University",
+    2
+  ],
+  [
+    "Lawrence Berkeley National Laboratory",
+    2
+  ],
+  [
+    "Los Alamos National Laboratory",
+    2
+  ],
+  [
+    "McMaster University",
+    2
+  ],
+  [
+    "Mechanical and Aerospace Engineering, Princeton University",
+    2
+  ],
+  [
+    "Michigan Technological University",
+    2
+  ],
+  [
+    "National Renewable Energy Laboratory (NREL",
+    2
+  ],
+  [
+    "National Taiwan University",
+    2
+  ],
+  [
+    "New York University",
+    2
+  ],
+  [
+    "Ohio Wesleyan University",
+    2
+  ],
+  [
+    "Osaka University",
+    2
+  ],
+  [
+    "Penn State University",
+    2
+  ],
+  [
+    "Providence College",
+    2
+  ],
+  [
+    "Rutgers University - Newark",
+    2
+  ],
+  [
+    "Santa Clara University",
+    2
+  ],
+  [
+    "Sapienza University of Rome",
+    2
+  ],
+  [
+    "School of Natural Sciences, UC Merced",
+    2
+  ],
+  [
+    "Southern Illinois University-Carbondale",
+    2
+  ],
+  [
+    "Stevens Institute of Technology",
+    2
+  ],
+  [
+    "Stony Brook University (SUNY",
+    2
+  ],
+  [
+    "Sungkyunkwan University",
+    2
+  ],
+  [
+    "Technical University of Vienna",
+    2
+  ],
+  [
+    "Technische Universit\u00e4t Darmstadt",
+    2
+  ],
+  [
+    "Tennessee Technological University",
+    2
+  ],
+  [
+    "Texas A&M University - Corpus Christi",
+    2
+  ],
+  [
+    "Texas A&M University - Kingsville",
+    2
+  ],
+  [
+    "The George Washington University",
+    2
+  ],
+  [
+    "The Ohio State University",
+    2
+  ],
+  [
+    "The University of Michigan, Ann Arbor",
+    2
+  ],
+  [
+    "The University of Oklahoma",
+    2
+  ],
+  [
+    "The University of Texas Rio Grande Valley",
+    2
+  ],
+  [
+    "Toronto Metropolitan University",
+    2
+  ],
+  [
+    "Tsinghua University",
+    2
+  ],
+  [
+    "UC San Diego",
+    2
+  ],
+  [
+    "UNICAMP-Univ de Campinas",
+    2
+  ],
+  [
+    "US Naval Academy",
+    2
+  ],
+  [
+    "Union College",
+    2
+  ],
+  [
+    "Univ De La Serena",
+    2
+  ],
+  [
+    "Universidad Nacional Autonoma de Mexico UNAM",
+    2
+  ],
+  [
+    "Universidad Politecnica de Madrid",
+    2
+  ],
+  [
+    "Universidade de S\u00e3o Paulo",
+    2
+  ],
+  [
+    "Universite catholique de Louvain",
+    2
+  ],
+  [
+    "University of Alabama in Huntsville",
+    2
+  ],
+  [
+    "University of Bristol",
+    2
+  ],
+  [
+    "University of California Davis",
+    2
+  ],
+  [
+    "University of California, Merced",
+    2
+  ],
+  [
+    "University of Canterbury",
+    2
+  ],
+  [
+    "University of Cincinnati",
+    2
+  ],
+  [
+    "University of Illinois Chicago",
+    2
+  ],
+  [
+    "University of Illinois, Urbana-Champaign",
+    2
+  ],
+  [
+    "University of Leeds",
+    2
+  ],
+  [
+    "University of Liverpool",
+    2
+  ],
+  [
+    "University of Maryland",
+    2
+  ],
+  [
+    "University of Michigan Ann Arbor",
+    2
+  ],
+  [
+    "University of Missouri-Columbia",
+    2
+  ],
+  [
+    "University of New Mexico",
+    2
+  ],
+  [
+    "University of Patras",
+    2
+  ],
+  [
+    "University of Puerto Rico at Mayaguez",
+    2
+  ],
+  [
+    "University of Puget Sound",
+    2
+  ],
+  [
+    "University of Toledo",
+    2
+  ],
+  [
+    "University of Warwick",
+    2
+  ],
+  [
+    "University of Wisconsin - Milwaukee",
+    2
+  ],
+  [
+    "Utah Valley University",
+    2
+  ],
+  [
+    "7011 East Avenue",
+    1
+  ],
+  [
+    "AIST",
+    1
+  ],
+  [
+    "AIX MARSEILLE UNIVERSITE",
+    1
+  ],
+  [
+    "AMA at NASA Ames Research Center",
+    1
+  ],
+  [
+    "AMIAD",
+    1
+  ],
+  [
+    "AWE",
+    1
+  ],
+  [
+    "Adelaide University",
+    1
+  ],
+  [
+    "Aerospace Engineering, Texas A&M University, College Station, TX 77843-3141, USA",
+    1
+  ],
+  [
+    "Air Force Research Laboratory",
+    1
+  ],
+  [
+    "Aston Fluids Group and School of Engineering & Innovation, Aston University, Birmingham, B4 7ET, UK",
+    1
+  ],
+  [
+    "Atlantic Marine Energy Center, University of New Hampshire",
+    1
+  ],
+  [
+    "Basque Center for Applied Mathematics (BCAM",
+    1
+  ],
+  [
+    "BeiHang University",
+    1
+  ],
+  [
+    "Beihang University",
+    1
+  ],
+  [
+    "Ben-Gurion University",
+    1
+  ],
+  [
+    "Ben-Gurion University of the Negev",
+    1
+  ],
+  [
+    "Biomedical Engineering, Purdue University, West Lafayette, IN, USA",
+    1
+  ],
+  [
+    "Brown Univeristy",
+    1
+  ],
+  [
+    "Budapest University of Technology and Economics",
+    1
+  ],
+  [
+    "CEA Paris-Saclay",
+    1
+  ],
+  [
+    "CEA de Bruyeres-le-Chatel",
+    1
+  ],
+  [
+    "CEA, DAM, DIF, F-91297 Arpajon, France",
+    1
+  ],
+  [
+    "CNRE - University of Michigan",
+    1
+  ],
+  [
+    "Cal Poly Humboldt",
+    1
+  ],
+  [
+    "California State Polytechnic University Pomona",
+    1
+  ],
+  [
+    "California State University Fullerton",
+    1
+  ],
+  [
+    "Canadian Nuclear Laboratories",
+    1
+  ],
+  [
+    "Cardiff University",
+    1
+  ],
+  [
+    "Casady School",
+    1
+  ],
+  [
+    "Center for Turbulence Research - Stanford University",
+    1
+  ],
+  [
+    "Central Michigan University",
+    1
+  ],
+  [
+    "Central South University",
+    1
+  ],
+  [
+    "Central University",
+    1
+  ],
+  [
+    "Centrale Lille Institut",
+    1
+  ],
+  [
+    "Centre for Turbulence Research, Stanford University",
+    1
+  ],
+  [
+    "Centre national de la recherche scientifique (CNRS",
+    1
+  ],
+  [
+    "Chair of Fluid Mechanics  Darmstadt",
+    1
+  ],
+  [
+    "Chalmers Technical University, Gothenburg, Sweden (Emeritus",
+    1
+  ],
+  [
+    "Chalmers University of Technology",
+    1
+  ],
+  [
+    "Chiba University",
+    1
+  ],
+  [
+    "Chinese University of Hong Kong",
+    1
+  ],
+  [
+    "Clarkson University",
+    1
+  ],
+  [
+    "College of Engineering, Guindy, Anna University, Chennai, Tamil Nadu, India",
+    1
+  ],
+  [
+    "Columbia University in the City of New York",
+    1
+  ],
+  [
+    "Consultant",
+    1
+  ],
+  [
+    "Cooper Union",
+    1
+  ],
+  [
+    "Cornell University College of Agriculture and Life Sciences",
+    1
+  ],
+  [
+    "Courant Institute of Mathematics, NYU",
+    1
+  ],
+  [
+    "Coventry University",
+    1
+  ],
+  [
+    "DEVCOM, U. S. Army",
+    1
+  ],
+  [
+    "DICI - University of Pisa",
+    1
+  ],
+  [
+    "Defence Science and Technology Laboratory",
+    1
+  ],
+  [
+    "Department of Aeronautics, Imperial College London",
+    1
+  ],
+  [
+    "Department of Aerospace Engineering, Indian Institute of Technology Kharagpur, West Bengal, India \u2013 721302",
+    1
+  ],
+  [
+    "Department of Aerospace Engineering, Mechanical Cluster, School of  Advanced Engineering, UPES, Dehradun, Uttarakhand 248007, India",
+    1
+  ],
+  [
+    "Department of Aerospace Engineering, University of Michigan",
+    1
+  ],
+  [
+    "Department of Aerospace Engineering, University of Michigan, Ann Arbor",
+    1
+  ],
+  [
+    "Department of Aerospace Engineering, University of Michigan, Ann Arbor, USA",
+    1
+  ],
+  [
+    "Department of Basic Medical Sciences, University of the West Indies, Mona Campus, Kingston 7, Jamaica",
+    1
+  ],
+  [
+    "Department of Biomedical Engineering and Mechanics, Virginia Tech, Blacksburg, Virginia, United States 24061",
+    1
+  ],
+  [
+    "Department of Chemical Engineering, Massachusetts Institute of Technology",
+    1
+  ],
+  [
+    "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Tallahassee, FL 32310, USA.",
+    1
+  ],
+  [
+    "Department of Civil Engineering and Engineering Mechanics, Columbia University, New York, NY 10027, USA",
+    1
+  ],
+  [
+    "Department of Electrical, Computer and Biomedical Engineering, Toronto Metropolitan University, Toronto, Ontario, Canada",
+    1
+  ],
+  [
+    "Department of Engineering Science, National Cheng Kung University",
+    1
+  ],
+  [
+    "Department of Engineering Sciences and Applied Mathematics, Northwestern University",
+    1
+  ],
+  [
+    "Department of Finemechanics, Tohoku University",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering (Robotics",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering and Science, Kyoto University",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, Amrita Vishwa Vidyapeetham, Coimbatore",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, City College of New York, New York, NY 10031",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, FAMU-FSU College of Engineering, Florida State University Tallahassee, FL, 32310, USA",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, Faculty of Engineering, Kindai University, Japan",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, Johns Hopkins University",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, Seoul National University, Seoul 08826, South Korea",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, Texas A&M University, College Station, TX",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, The University of Texas at Dallas",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, The University of Texas at Dallas, Richardson, TX 75080, United States",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, University College London",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, University of Minnesota.",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, University of Washington, Seattle, WA",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, University of Washington, Seattle, Washington",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, University of Washington, Seattle, Washington; Center for Cardiovascular Biology, University of Washington, Seattle, Washington",
+    1
+  ],
+  [
+    "Department of Mechanical Engineering, Virginia Tech, Blacksburg, VA, 24061",
+    1
+  ],
+  [
+    "Department of Mechanical and Aerospace Engineering and Scripps Institution of Oceanography, UC San Diego",
+    1
+  ],
+  [
+    "Department of Mechanical and Aerospace Engineering, High Meadows Environmental Institute, Princeton University",
+    1
+  ],
+  [
+    "Department of Mechanical and Aerospace Engineering, Syracuse University, Syracuse, NY 13244, USA",
+    1
+  ],
+  [
+    "Department of Mechanical and Aerospace Engineering, University of California, Los Angeles, CA 90095, USA",
+    1
+  ],
+  [
+    "Department of Mechanical and Industrial Engineering, IIT Roorkee, India",
+    1
+  ],
+  [
+    "Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen 518055, People's Republic of China",
+    1
+  ],
+  [
+    "Department of Mechatronics, Konkuk University",
+    1
+  ],
+  [
+    "Department of Ocean Engineering, University of Rhode Island",
+    1
+  ],
+  [
+    "Dept. Mechanical Systems Engineering, Tokyo City University, Japan & Devision of Applied Mathematics, Brown University",
+    1
+  ],
+  [
+    "Division of Applied Mathematics, Brown University",
+    1
+  ],
+  [
+    "Durham University",
+    1
+  ],
+  [
+    "EPFL",
+    1
+  ],
+  [
+    "EPFL - Swiss Federal Institute of Technology Lausanne",
+    1
+  ],
+  [
+    "ESPCI Paris (PSL",
+    1
+  ],
+  [
+    "ETH Zurich; Swiss Federal Institute for Forest, Snow and Landscape Research (WSL",
+    1
+  ],
+  [
+    "Earth System Sciences, University of California Irvine",
+    1
+  ],
+  [
+    "Eawag and ETH Zurich",
+    1
+  ],
+  [
+    "Ecole Polytechnique",
+    1
+  ],
+  [
+    "Eindhoven University of Technology",
+    1
+  ],
+  [
+    "Embry-Riddle Aeronautical Univ, Daytona, Florida, 32111, USA",
+    1
+  ],
+  [
+    "Emory University",
+    1
+  ],
+  [
+    "Eth Zurich",
+    1
+  ],
+  [
+    "FLORIDA STATE UNIVERSITY",
+    1
+  ],
+  [
+    "Flatiron Institute",
+    1
+  ],
+  [
+    "Flatiron Institute, Simons Foundation",
+    1
+  ],
+  [
+    "Florida Agricultural and Mechanical University",
+    1
+  ],
+  [
+    "Florida International University",
+    1
+  ],
+  [
+    "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU",
+    1
+  ],
+  [
+    "Geoenergia Lab, UDESC",
+    1
+  ],
+  [
+    "Georgetown University",
+    1
+  ],
+  [
+    "Georgia Institute of Technology, Atlanta, GA 30332, USA",
+    1
+  ],
+  [
+    "Georgia Institute of Technology-Georgia Tech",
+    1
+  ],
+  [
+    "Georgia Instiute of Technology",
+    1
+  ],
+  [
+    "Gothenburg University",
+    1
+  ],
+  [
+    "Guangdong Technion - Israel Institute of Technology",
+    1
+  ],
+  [
+    "Guangdong Technion-Israel Institute of Technology",
+    1
+  ],
+  [
+    "Hamad Bin Khalifa University",
+    1
+  ],
+  [
+    "Hanbat National University",
+    1
+  ],
+  [
+    "Harbin Institute of Technology",
+    1
+  ],
+  [
+    "Hebrew University of Jerusalem",
+    1
+  ],
+  [
+    "Hendrix College",
+    1
+  ],
+  [
+    "Hokkaido University",
+    1
+  ],
+  [
+    "Hongik University",
+    1
+  ],
+  [
+    "Hubert",
+    1
+  ],
+  [
+    "IIT Delhi",
+    1
+  ],
+  [
+    "IIT Kharagpur",
+    1
+  ],
+  [
+    "IIT Kharagpur, India",
+    1
+  ],
+  [
+    "IIT ROORKEE",
+    1
+  ],
+  [
+    "INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR",
+    1
+  ],
+  [
+    "ISTO-CNRS",
+    1
+  ],
+  [
+    "Indian Inst of Tech-Bombay",
+    1
+  ],
+  [
+    "Indian Inst of Tech-Kanpur",
+    1
+  ],
+  [
+    "Indian Institue of Technology Gandhinagar, India",
+    1
+  ],
+  [
+    "Indian Institute Of Technology- Madras",
+    1
+  ],
+  [
+    "Indian Institute of Science",
+    1
+  ],
+  [
+    "Indian Institute of Science Bangalore",
+    1
+  ],
+  [
+    "Indian Institute of Science Bengaluru",
+    1
+  ],
+  [
+    "Indian Institute of Science, Bengaluru",
+    1
+  ],
+  [
+    "Indian Institute of Technology - Bombay (IIT",
+    1
+  ],
+  [
+    "Indian Institute of Technology Gandhinagar",
+    1
+  ],
+  [
+    "Indian Institute of Technology Kanpur (I",
+    1
+  ],
+  [
+    "Indian Institute of Technology Kanpur, India",
+    1
+  ],
+  [
+    "Indian Institute of Technology Patna",
+    1
+  ],
+  [
+    "Indian Institute of Technology, Kanpur",
+    1
+  ],
+  [
+    "Institue of Aerodynamics and Chair of Fluid Mechanics, RWTH Aachen University",
+    1
+  ],
+  [
+    "Institut de Mecanique des Fluides de Toulouse",
+    1
+  ],
+  [
+    "Institut des Sciences de la Terre d'Orl\u00e9ans (ISTO",
+    1
+  ],
+  [
+    "Institute for Geophysics, Jackson School of Geosciences, University of Texas at Austin",
+    1
+  ],
+  [
+    "Institute for Geophysics, University of Texas at Austin",
+    1
+  ],
+  [
+    "Institute of Fundamental Technological Research  PAS",
+    1
+  ],
+  [
+    "Institute of Fundamental Technological Research  Polish Academy of Sciences",
+    1
+  ],
+  [
+    "Institute of Heat and Mass Transfer, RWTH Aachen University, Augustinerbach 6, 52056 Aachen",
+    1
+  ],
+  [
+    "Institute of Mathematics for Industry, Kyushu University",
+    1
+  ],
+  [
+    "Institute of Science and Technology Austria",
+    1
+  ],
+  [
+    "Institute of marine engineering - CNR",
+    1
+  ],
+  [
+    "Interdisciplinary Center for Fluid Dynamics NIDF/UFRJ",
+    1
+  ],
+  [
+    "International Center for Theoretical Sciences",
+    1
+  ],
+  [
+    "International Centre for Theoretical Sciences, Tata Institute of Fundamental Research, Shivakote, Bengaluru 560089, India",
+    1
+  ],
+  [
+    "Istanbul Technical University",
+    1
+  ],
+  [
+    "JAXA",
+    1
+  ],
+  [
+    "Johns Hopkins University, Morgan State University",
+    1
+  ],
+  [
+    "KAUST Upstream Research Center (KURC",
+    1
+  ],
+  [
+    "KTH - Royal Institute Of Technology",
+    1
+  ],
+  [
+    "KTH Royal Institute of Technology",
+    1
+  ],
+  [
+    "KU Leuven",
+    1
+  ],
+  [
+    "Kanagawa University",
+    1
+  ],
+  [
+    "Kansas State University",
+    1
+  ],
+  [
+    "Keio Univ.",
+    1
+  ],
+  [
+    "Keio University, Tokyo, Japan",
+    1
+  ],
+  [
+    "Kindai University",
+    1
+  ],
+  [
+    "King Fahad University of Petroleum and Minerals",
+    1
+  ],
+  [
+    "King Fahd University of Petroleum and Minerals",
+    1
+  ],
+  [
+    "Korea Adv Inst of Sci & Tech",
+    1
+  ],
+  [
+    "Korea Advanced Institute of Science and Technology",
+    1
+  ],
+  [
+    "Korea Institute of Ocean Science and Technology (KIOST",
+    1
+  ],
+  [
+    "Korea university",
+    1
+  ],
+  [
+    "Kyung Hee University",
+    1
+  ],
+  [
+    "LIPHY, Universit\u00e9 Grenoble-Alpes",
+    1
+  ],
+  [
+    "Lab FAST, CNRS/Univ Paris-Saclay",
+    1
+  ],
+  [
+    "Laboratoire Charles Coulomb (L2C",
+    1
+  ],
+  [
+    "Los Alamos National Labatory",
+    1
+  ],
+  [
+    "Louisiana State Univerity",
+    1
+  ],
+  [
+    "MIE, CBI, ESPCI Paris, Universit\u00e9 PSL, CNRS 75005 Paris, France",
+    1
+  ],
+  [
+    "MIT",
+    1
+  ],
+  [
+    "Manhattan University",
+    1
+  ],
+  [
+    "Marquette University",
+    1
+  ],
+  [
+    "Marshall University",
+    1
+  ],
+  [
+    "Max Planck Institute For Dynamics and Self Organization",
+    1
+  ],
+  [
+    "Max Planck Institute for Dynamics and Self-Organization, G\u00f6ttingen",
+    1
+  ],
+  [
+    "Max-Planck Institute for Dynamics and Self-Organization",
+    1
+  ],
+  [
+    "McGill University",
+    1
+  ],
+  [
+    "Mechanical Engineering, University of Utah, 50 S. Central Campus Dr., MEB, Rm 2110, Salt Lake City, Utah, USA",
+    1
+  ],
+  [
+    "Meijo University",
+    1
+  ],
+  [
+    "Meinig School of Biomedical Engineering, Cornell University, Ithaca, NY, USA",
+    1
+  ],
+  [
+    "Mines Saint-Etienne, Sainbiose INSERM 1059, France",
+    1
+  ],
+  [
+    "Montana Technological University",
+    1
+  ],
+  [
+    "Moreau Catholic High School",
+    1
+  ],
+  [
+    "Morgan State university",
+    1
+  ],
+  [
+    "Mount Boucherie Secondary School",
+    1
+  ],
+  [
+    "Multiphase Flow Research Center (NUEM",
+    1
+  ],
+  [
+    "Mycronic AB, Kungliga Tekniska H\u00f6gskolan",
+    1
+  ],
+  [
+    "Mycronic AB, Uppsala University",
+    1
+  ],
+  [
+    "NASA Langley Research Center",
+    1
+  ],
+  [
+    "NASA MSFC (ESSCA - Qualis Corp",
+    1
+  ],
+  [
+    "NYU Shanghai, New York University",
+    1
+  ],
+  [
+    "Nanyang technological University",
+    1
+  ],
+  [
+    "National Aeronautics and Space Administration (NASA",
+    1
+  ],
+  [
+    "National Autonomous University of Mexico (UNAM",
+    1
+  ],
+  [
+    "National Centre for Scientific Research (CNRS",
+    1
+  ],
+  [
+    "National Cheng Kung University, R.O.C.",
+    1
+  ],
+  [
+    "National Energy Technology Laboratory",
+    1
+  ],
+  [
+    "National High Magnetic Field Lab, Florida State University",
+    1
+  ],
+  [
+    "National Institute of Standards and Technology (NIST",
+    1
+  ],
+  [
+    "National Institute of Technology Karnataka, Surathkal",
+    1
+  ],
+  [
+    "National University of Singapore",
+    1
+  ],
+  [
+    "Naval Postgraduate School",
+    1
+  ],
+  [
+    "Naval Surface Warfare Center (NSWC",
+    1
+  ],
+  [
+    "Naval Surface Warfare Center Carderock Division",
+    1
+  ],
+  [
+    "Naval Undersea Warfare Center",
+    1
+  ],
+  [
+    "Naval Undersea Warfare Center (NUWC",
+    1
+  ],
+  [
+    "Naval Undersea Warfare Center Newport",
+    1
+  ],
+  [
+    "Naval Undersea Warfare Ctr",
+    1
+  ],
+  [
+    "New York Institute of Technology",
+    1
+  ],
+  [
+    "New York University Abu Dhabi",
+    1
+  ],
+  [
+    "Nordic Institute for Theoretical Physics, Stockholm, Sweden",
+    1
+  ],
+  [
+    "North Carolina A&T State University",
+    1
+  ],
+  [
+    "Northeastern university",
+    1
+  ],
+  [
+    "Northern Illinois University",
+    1
+  ],
+  [
+    "Northwestern Univeristy",
+    1
+  ],
+  [
+    "Okayama University",
+    1
+  ],
+  [
+    "Paul Scherrer Institute",
+    1
+  ],
+  [
+    "Penn State Berks",
+    1
+  ],
+  [
+    "Pohang Univ of Sci & Tech",
+    1
+  ],
+  [
+    "Pontifical Catholic University of Rio de Janeiro",
+    1
+  ],
+  [
+    "Pontificia Universidad Catolica de Chile",
+    1
+  ],
+  [
+    "Pontificia Universidad Cat\u00f3lica de Chile",
+    1
+  ],
+  [
+    "Pontificia Universidade Catolica do Rio de Janeiro",
+    1
+  ],
+  [
+    "PontificiaUniversidad Catolica de Chile",
+    1
+  ],
+  [
+    "Postech",
+    1
+  ],
+  [
+    "Princeton International School of Mathematics and Science",
+    1
+  ],
+  [
+    "Purdue University Northwest",
+    1
+  ],
+  [
+    "Pusan national university",
+    1
+  ],
+  [
+    "Queen Mary University London",
+    1
+  ],
+  [
+    "Queen Mary University of London",
+    1
+  ],
+  [
+    "Rice University",
+    1
+  ],
+  [
+    "Rutgers",
+    1
+  ],
+  [
+    "Rutgers New Brunswick",
+    1
+  ],
+  [
+    "Rutgers University",
+    1
+  ],
+  [
+    "Sandia National Laboratories, California, USA",
+    1
+  ],
+  [
+    "Sandia National Labs",
+    1
+  ],
+  [
+    "School of Biomedical Engineering, ShanghaiTech University",
+    1
+  ],
+  [
+    "School of Engineering",
+    1
+  ],
+  [
+    "School of Engineering Science, University of Science and Technology of China, 230026 Hefei, China",
+    1
+  ],
+  [
+    "School of Engineering, Brown University",
+    1
+  ],
+  [
+    "School of Mechanical Engineering, Purdue University",
+    1
+  ],
+  [
+    "Scripps",
+    1
+  ],
+  [
+    "Scripps Institution of Oceanography",
+    1
+  ],
+  [
+    "Seoul National University of Science & Technology",
+    1
+  ],
+  [
+    "Seoul national university",
+    1
+  ],
+  [
+    "Shanghai Jiao Tong Univ",
+    1
+  ],
+  [
+    "Simons Foundation (Flatiron Institute",
+    1
+  ],
+  [
+    "Smith College",
+    1
+  ],
+  [
+    "Soft Active Matter Lab",
+    1
+  ],
+  [
+    "Soonchunhyang University",
+    1
+  ],
+  [
+    "Sorbonne Universite",
+    1
+  ],
+  [
+    "South China Sea Institute of Oceanology, CAS",
+    1
+  ],
+  [
+    "Souther Methodist University",
+    1
+  ],
+  [
+    "Spraying Systems Co.",
+    1
+  ],
+  [
+    "Stanford",
+    1
+  ],
+  [
+    "Stanford Univeristy",
+    1
+  ],
+  [
+    "Stelios",
+    1
+  ],
+  [
+    "Swarthmore College",
+    1
+  ],
+  [
+    "TAMUCC",
+    1
+  ],
+  [
+    "TU Delft",
+    1
+  ],
+  [
+    "TU Wien",
+    1
+  ],
+  [
+    "Tata Inst of Fundamental Res",
+    1
+  ],
+  [
+    "Tech Univ Muenchen",
+    1
+  ],
+  [
+    "Technical University of Berlin",
+    1
+  ],
+  [
+    "Technical University of Denmark",
+    1
+  ],
+  [
+    "Technical University of Denmark (DTU",
+    1
+  ],
+  [
+    "Technion \u2013 Israel Institute of Technology",
+    1
+  ],
+  [
+    "Technische Universitat Darmstadt",
+    1
+  ],
+  [
+    "Texas A&M University at Qatar",
+    1
+  ],
+  [
+    "Texas A&M University, College Station",
+    1
+  ],
+  [
+    "Texas A&M University, College Station, TX, US",
+    1
+  ],
+  [
+    "Texas A&M University, College Station,TX,US",
+    1
+  ],
+  [
+    "Texas Tech University, USA",
+    1
+  ],
+  [
+    "The Citadel, The Military College of South Carolina",
+    1
+  ],
+  [
+    "The Osaka University",
+    1
+  ],
+  [
+    "The University of Alabama-Tuscaloosa",
+    1
+  ],
+  [
+    "The University of British Columbia",
+    1
+  ],
+  [
+    "The University of Edinburgh",
+    1
+  ],
+  [
+    "The University of Tennessee Chattanooga",
+    1
+  ],
+  [
+    "The University of Texas - Rio Grande Valley",
+    1
+  ],
+  [
+    "The University of Texas at Austin",
+    1
+  ],
+  [
+    "The unversity of Hongkong",
+    1
+  ],
+  [
+    "Tohoku university",
+    1
+  ],
+  [
+    "Tufts University",
+    1
+  ],
+  [
+    "Turkish Aerospace",
+    1
+  ],
+  [
+    "UC Merced",
+    1
+  ],
+  [
+    "UFRJ",
+    1
+  ],
+  [
+    "UIUC",
+    1
+  ],
+  [
+    "UNIST",
+    1
+  ],
+  [
+    "UTSA",
+    1
+  ],
+  [
+    "Ulsan National Institute of Science and Technology(UNIST",
+    1
+  ],
+  [
+    "United States Military Academy West Point",
+    1
+  ],
+  [
+    "Univ Politecnica de Valencia",
+    1
+  ],
+  [
+    "Univ of Alberta",
+    1
+  ],
+  [
+    "Univ of Toronto",
+    1
+  ],
+  [
+    "Universidad Nacional Autonoma de Mexico",
+    1
+  ],
+  [
+    "Universidad Nacional de Educacion a Distancia",
+    1
+  ],
+  [
+    "Universidad Polit\u00e9cnica de Madrid",
+    1
+  ],
+  [
+    "Universidad de Chile",
+    1
+  ],
+  [
+    "Universidad de Sevilla",
+    1
+  ],
+  [
+    "Universidade Estadual de Campinas",
+    1
+  ],
+  [
+    "Universidade de Vigo",
+    1
+  ],
+  [
+    "Universitat Rovira i Virgili",
+    1
+  ],
+  [
+    "University  of Nevada, Reno",
+    1
+  ],
+  [
+    "University Of Ulsan",
+    1
+  ],
+  [
+    "University at Buffalo",
+    1
+  ],
+  [
+    "University at Buffalo, The State University of New York",
+    1
+  ],
+  [
+    "University of Akron",
+    1
+  ],
+  [
+    "University of Alabama-Tuscaloosa",
+    1
+  ],
+  [
+    "University of Amsterdam",
+    1
+  ],
+  [
+    "University of Arizona",
+    1
+  ],
+  [
+    "University of Bari",
+    1
+  ],
+  [
+    "University of Birmingham",
+    1
+  ],
+  [
+    "University of Birmingham, School of Geography, Earth and Environmental Sciences",
+    1
+  ],
+  [
+    "University of Bremen",
+    1
+  ],
+  [
+    "University of California Los Angeles",
+    1
+  ],
+  [
+    "University of California Riverside",
+    1
+  ],
+  [
+    "University of California San Diego =",
+    1
+  ],
+  [
+    "University of California Santa Barbara",
+    1
+  ],
+  [
+    "University of Campinas",
+    1
+  ],
+  [
+    "University of Colorado, Colorado Springs",
+    1
+  ],
+  [
+    "University of Colorado, Denver",
+    1
+  ],
+  [
+    "University of Glasgow",
+    1
+  ],
+  [
+    "University of Groningen",
+    1
+  ],
+  [
+    "University of HONG KONG",
+    1
+  ],
+  [
+    "University of Hawaii at Manoa",
+    1
+  ],
+  [
+    "University of Hoouston",
+    1
+  ],
+  [
+    "University of Houston - Clear Lake",
+    1
+  ],
+  [
+    "University of Idaho",
+    1
+  ],
+  [
+    "University of Illinois at Urbana Champaign",
+    1
+  ],
+  [
+    "University of Ja\u00e9n",
+    1
+  ],
+  [
+    "University of Kansas",
+    1
+  ],
+  [
+    "University of Kentucky",
+    1
+  ],
+  [
+    "University of L'Aquila",
+    1
+  ],
+  [
+    "University of Liege",
+    1
+  ],
+  [
+    "University of Malaga",
+    1
+  ],
+  [
+    "University of Maryland, College Park",
+    1
+  ],
+  [
+    "University of Massachusetts, Amherst",
+    1
+  ],
+  [
+    "University of Michigan - Ann Arbor",
+    1
+  ],
+  [
+    "University of Michigan - Flint",
+    1
+  ],
+  [
+    "University of Michigan Flint",
+    1
+  ],
+  [
+    "University of Michigan-Flint",
+    1
+  ],
+  [
+    "University of Minnesota Twin Cities",
+    1
+  ],
+  [
+    "University of Minnesota.",
+    1
+  ],
+  [
+    "University of Missouri-Kansas City",
+    1
+  ],
+  [
+    "University of Nebraska-Lincoln",
+    1
+  ],
+  [
+    "University of North Georgia",
+    1
+  ],
+  [
+    "University of Nottingham",
+    1
+  ],
+  [
+    "University of Orleans",
+    1
+  ],
+  [
+    "University of Padua",
+    1
+  ],
+  [
+    "University of Pennsylvania, McBride Lab, Mechanical engineering and Applied Mechanics",
+    1
+  ],
+  [
+    "University of Petroleum and Energy Studies, Dehradun",
+    1
+  ],
+  [
+    "University of Puerto Rico Mayaguez",
+    1
+  ],
+  [
+    "University of Reno, Nevada",
+    1
+  ],
+  [
+    "University of Roma Tor Vergata",
+    1
+  ],
+  [
+    "University of Rome \"Tor Vergata\"",
+    1
+  ],
+  [
+    "University of Salento",
+    1
+  ],
+  [
+    "University of Salerno",
+    1
+  ],
+  [
+    "University of San Antonio",
+    1
+  ],
+  [
+    "University of Science and Technology of China",
+    1
+  ],
+  [
+    "University of South Caolina",
+    1
+  ],
+  [
+    "University of Strathclyde",
+    1
+  ],
+  [
+    "University of Strathclyde, Glasgow",
+    1
+  ],
+  [
+    "University of Stuttgart",
+    1
+  ],
+  [
+    "University of Tennessee at Chattanooga",
+    1
+  ],
+  [
+    "University of Tennessee at Knoxville",
+    1
+  ],
+  [
+    "University of Tennessee, Knoxville",
+    1
+  ],
+  [
+    "University of Tokyo",
+    1
+  ],
+  [
+    "University of Torino",
+    1
+  ],
+  [
+    "University of Toronto",
+    1
+  ],
+  [
+    "University of Warsaw, Faculty of Physics",
+    1
+  ],
+  [
+    "University of Western Ontario",
+    1
+  ],
+  [
+    "University of Wisconsin, Madison",
+    1
+  ],
+  [
+    "University of Wisconsin-Madison",
+    1
+  ],
+  [
+    "University of Wyoming",
+    1
+  ],
+  [
+    "University of southern califonia",
+    1
+  ],
+  [
+    "University of the Philippines Diliman",
+    1
+  ],
+  [
+    "University of wisconsin-Madison",
+    1
+  ],
+  [
+    "Universit\u00e0 degli Studi di Padova",
+    1
+  ],
+  [
+    "Universit\u00e0 degli studi di Bari",
+    1
+  ],
+  [
+    "Universit\u00e9 de Rouen-Mont Saint Aignan",
+    1
+  ],
+  [
+    "Univesity of Toledo",
+    1
+  ],
+  [
+    "Verdantas Flow Labs",
+    1
+  ],
+  [
+    "Vienna Univ. of Technology, Univ. of Udine",
+    1
+  ],
+  [
+    "Virginia Commonwealth University",
+    1
+  ],
+  [
+    "Virginia Tech \u2013 Wake Forest School of Biomedical Engineering and Sciences, Blacksburg, VA 24061",
+    1
+  ],
+  [
+    "Vivekananda Institute of Professional Studies, GGSIPU",
+    1
+  ],
+  [
+    "W. L. Gore & Associates",
+    1
+  ],
+  [
+    "Wake Forest University",
+    1
+  ],
+  [
+    "Washington State University",
+    1
+  ],
+  [
+    "Watchung Hills Regional High School",
+    1
+  ],
+  [
+    "Weill Cornell Medicine Qatar",
+    1
+  ],
+  [
+    "Wesleyan University",
+    1
+  ],
+  [
+    "West Virginia University",
+    1
+  ],
+  [
+    "WestLake Univeristy",
+    1
+  ],
+  [
+    "Western University",
+    1
+  ],
+  [
+    "Westlake High School",
+    1
+  ],
+  [
+    "Woods Hole Oceanographic Institution",
+    1
+  ],
+  [
+    "Worcester Polytechnic Institute",
+    1
+  ],
+  [
+    "Yokohama Natl Univ",
+    1
+  ],
+  [
+    "Yonsei university",
+    1
+  ],
+  [
+    "York University",
+    1
+  ],
+  [
+    "beijing computational science research center",
+    1
+  ],
+  [
+    "espci paris",
+    1
+  ],
+  [
+    "indian institute of technology, madras",
+    1
+  ],
+  [
+    "kyunghee university",
+    1
+  ],
+  [
+    "phaenovum Sch\u00fclerforschungszentrum L\u00f6rrach-Dreil\u00e4ndereck e.V",
+    1
+  ],
+  [
+    "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+    1
+  ]
+]

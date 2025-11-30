@@ -1,0 +1,105 @@
+DFD 2025 Priority Sessions (Koopman / Regression / SINDy / SPOD / Resolvent / Python / Bayesian / Fourier / ROM / POD / SVD / PCA)
+
+Sunday, Nov 23 (Central Time)
+- Bispectral analysis and phase coupling of triadic interactions in a turbulent boundary layer — 08:00–08:13, room 352DEF
+- Multi-task Gaussian process regression for active drag reduction in turbulent boundary layer flows — 08:39–08:52, room 371CF
+- The Navier-Stokes-Fourier equations revisited — 08:39–08:52, room 370AD
+- Heat Release Response Function during Self-Sustained Combustion Instability in a High-Pressure Rocket Combustor — 08:39–08:52, room 351CF
+- Mysid and copepod aggregation and trophic interaction in a 2D laboratory model of Langmuir circulation — 09:05–09:18, room 320C
+- Resolvent Analysis of Shock-Laden Flows — 10:31–10:32, room 310C
+- Extracting time-varying causal modes of aerodynamic flows with information-theoretic machine learning — 10:32–10:33, room 381ABC
+- Space-time model reduction using SPOD modes — 10:33–10:34, room 381ABC
+- Identifying the length scales of the dominant coherent structures in channel flow: a resolvent analysis approach — 10:35–10:36, room 361ABDE
+- Modal Force and Vortex Dynamics of an Oscillating Airfoil — 10:35–10:36, room 360ABDE
+- Reduced-Order Modeling of Wind Turbine Wakes with the Generalized Quasilinear Approximation — 10:39–10:40, room 351ABDE
+- Wake-Induced Vibrations of a Whisker-Inspired Sensor Array — 11:40–11:41, room 371ABDE
+- Bayesian Inference for Parameter Estimation in Perivascular Cerebrospinal Fluid Flow — 14:05–14:06, room 340AB
+- Resolvent-based phase estimation for spectral analysis of temporally uncorrelated PIV snapshots — 14:05–14:06, room 351ABDE
+- Feature extraction from nonequilibrium molecular dynamics data for high-speed flows — 15:01–15:02, room 310C
+- Wake Dynamics of Circular Cylinders at Moderate Reynolds Numbers (300 &lt; Re &lt; 10000) — 15:05–15:06, room 371ABDE
+- Categorical Batch Bayesian Optimisation for High-Dimensional Design in Particle-Laden Flows — 17:25–17:38, room General Assembly Center
+- Development of reduced-order modeling of a multiphase flow in an ejector — 17:25–17:38, room General Assembly Right
+- A priori Assessment of Tensor Networks Encoding for Reduced Order Modeling of Isotropic Turbulence — 17:25–17:38, room 362EF
+- Data-Driven Resolvent Analysis for Turbulent Flows with Explicit Nonlinearity Treatment using LANDO — 17:38–17:51, room General Assembly Right
+- Time-dependent operator reveals transient flow dynamics — 17:38–17:51, room 381B
+- Bayesian Experimental Design for Model Discrepancy Calibration: An Auto-Differentiable Ensemble Kalman Inversion Approach — 17:51–18:04, room General Assembly Center
+- Transition prediction in high-speed boundary layers using Bayesian neural operators — 17:51–18:04, room 362EF
+- On the Nature of Symmetry Breaking Seeds in Boundary Layer Transition: A Data-Driven Stability Analysis — 17:51–18:04, room 361CF
+- Mori--Zwanzig Mode Decomposition: a comparison to DMD and HODMD — 17:51–18:04, room 381B
+- Fourier analysis of the physics of transfer learning for data-driven subgrid-scale models of ocean turbulence — 18:17–18:30, room General Assembly Right
+- Spectral partial least square based mode decomposition: an extension of SPOD incorporating two datasets — 18:17–18:30, room 381B
+- Spectral measures with residual DMD for identifying intended-observable-relevant flow structures — 18:17–18:30, room 370AD
+- Data-Driven Input-Output Analysis and Control Design of a 3D Supersonic Dual-Stream Jet — 18:17–18:30, room 370CF
+- Creating patient specific cardiovascular lumped parameter models in Fourier space using harmonic balance CFD results — 18:30–18:43, room 340AB
+- Fourier-based sparse H2 design of riblet geometry — 18:30–18:43, room 371CF
+- Variational Multiscale Moment Method for the Boltzmann Equation: An Entropy Stable Extension to the Navier-Stokes-Fourier Equations — 18:30–18:43, room 381C
+- Robust Mode Analysis of Irregular Flows. — 18:30–18:43, room 370AD
+- Correcting Navier-Stokes-Fourier System for Rarefied Flows with Non-Linear Super-Stencils — 18:43–18:56, room 381C
+
+Monday, Nov 24
+- Combining LES, Machine Learning, and Reduced-Order Models for Predicting Natural Ventilation — 08:00–08:13, room General Assembly Right
+- Kovasznay Mode Preserving and Entropy-Stable Numerical Methods — 08:00–08:13, room 381A
+- Active-SINDy: Intelligent sampling for model discovery in the ultra-low-data limit — 08:13–08:26, room 350F
+- A dynamically-consistent framework for mean flow stability and resolvent analysis — 08:26–08:39, room 371AD
+- SINDy on slow manifolds — 08:26–08:39, room General Assembly Right
+- Bicubic Fourier neural operator for super-resolution reconstruction of turbulent flows — 08:26–08:39, room 310C
+- Connecting wall pressure fluctuations with flow structure over a backward-facing step using reduced order models — 08:26–08:39, room 371CF
+- Causal analysis of turbulent Couette-Poiseuille flow using wavelet-based resolvent analysis — 08:26–08:39, room 362BE
+- Investigation of lossy compression techniques to create training datasets for Reduced Order Models (ROMs) of rocket engines — 08:39–08:52, room General Assembly Right
+- Adaptive projection-based reduced order modeling of chemically reacting flows — 08:39–08:52, room 360CF
+- Space-time resolvent model for near-wall flow reversal in time-evolving turbulent Couette–Poiseuille flow — 08:39–08:52, room 362BE
+- Cluster-Based Reduced-Order Modeling of Flat Plate Hydrodynamics Near an Air-Water Interface — 08:52–09:05, room 350F
+- Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Conditional Gaussian Koopman Network — 09:31–09:44, room General Assembly Right
+- Reduced order model for chemistry in high-speed flow simulations using Fourier Neural Operators — 09:44–09:57, room 350F
+- Applying SPOD to concurrent multi-spectral flame imagery — 09:57–10:10, room 360BE
+- Statistical properties of Fourier modes in isotropic turbulence — 09:57–10:10, room 351CF
+- Characterizing Extreme Events in Turbulent Flows through Sensitivity-Based Modal Decomposition — 09:57–10:10, room General Assembly Right
+- SPOD analysis of data-assimilated volumetric flow measurements of a quadcopter in hover flight — 10:10–10:23, room 381C
+- Data-Driven Thermal Imaging for Real-Time Nuclear Safety Monitoring and Temperature Reconstruction — 10:23–10:36, room 310C
+- Resolvent4py: a parallel Python package for analysis, model reduction and control of large-scale linear systems — 10:36–10:49, room 381A
+- Interaction of POD modes in canonical pipe flows quantified by transfer entropy — 17:35–17:48, room General Assembly Center
+- Hierarchical Bayesian framework for regularizing intracardiac 4D Flow — 17:48–18:01, room 320C
+- Characterizing the onset of asymmetric aerodynamic loads over low-aspect-ratio wings using tri-global resolvent analysis — 18:01–18:14, room 370CF
+- Distinguishing Among Transverse Jet Instabilities with Data-Based Reduced Order Models — 18:14–18:27, room 361CF
+- Projection-based reduced order models for fluid structure interaction problems — 18:14–18:27, room 362EF
+- Forced pitching oscillations of a finite wing at low reynolds number. — 18:14–18:27, room 370CF
+- Dual cavity dynamics in deep water — 18:27–18:40, room 320A
+- Modeling Fine-Scale Acoustic Variability in Stratified Flows Using Diffusion Models — 18:27–18:40, room 362EF
+- A Data-driven Kernel Regression Approach for Predicting Chemical Reaction Rates — 18:53–19:06, room General Assembly Center
+
+Tuesday, Nov 25
+- Bayesian Characterization of Explosive Sources Using Fourier Neural Operators — 08:00–08:13, room 360AD
+- Data-Driven Reduced Order Models Under Physical Constraints — 08:00–08:13, room 362EF
+- Data-driven closure for Koopman control of non-linear systems — 08:26–08:39, room 362BE
+- A fast, versatile tool for turbulent flow with complex surface behaviors: an immersed boundary-enriched resolvent framework — 08:26–08:39, room General Assembly Center
+- High-School Outreach: Viscosity Estimation Using Python Environment — 08:26–08:39, room 361AD
+- Blending data and physics for reduced-order modeling of systems with spatiotemporal chaotic dynamics — 08:39–08:52, room 362EF
+- Instability and Transition in Spherical Couette Flow with Varying Rotation Ratios in a Narrow Gap — 08:52–09:05, room 361CF
+- Reduced-Order Modeling and Validation of Vortical Modes in Swirling Flows — 09:05–09:18, room 351CF
+- Data-driven quantum Koopman method for simulating nonlinear dynamics — 09:05–09:18, room 371CF
+- Three-dimensional shear layer dynamics in a supersonic rectangular multi-stream jet — 09:18–09:31, room 351CF
+- Feedback control of vortex shedding using data driven modelling with minimal sensing — 09:31–09:44, room 362BE
+- POD Analysis of Cavitation Dynamics in a Venturi Flow with Hemispherical Bumps — 09:44–09:57, room 381B
+- Reduced order modeling for vortex structures in the human upper respiratory tract — 10:23–10:36, room 310C
+- Data-driven sensitivity analysis and model reduction of shear dominant flows using structured linear operators — 12:50–13:03, room 360AD
+- Hydrodynamic impact of internal solitary waves on a cylinder close to free surface — 13:03–13:16, room 362EF
+- Fourier-Embedded Deep Operator Networks for High-Fidelity Parametric PDE Surrogates and Inverse Optimization — 13:16–13:29, room General Assembly Right
+- A Hybrid Reduced-Order Modeling Framework for Accelerating Physics-Informed Neural Networks in Modeling Flow Instabilities — 13:42–13:55, room General Assembly Center
+- Space-time model reduction using Legendre-POD modes — 13:55–14:08, room 360AD
+- Optimizing Biomimetic Elastic Propulsors by Integrating Machine Learning and Bayesian Optimization — 14:08–14:21, room 320C
+- Feedback Control of Fluid-Structure Interaction via Koopman-based Reduced-Order Model — 14:08–14:21, room General Assembly Right
+- Characterizing Wall Turbulence Reaction to Wavy Deflections via Dynamic Mode Decomposition — 14:08–14:21, room 372BE
+- Dynamic Mode Decomposition on Moving Bodies-Moving Processing Window — 14:21–14:34, room 360AD
+- Wake Structure Analysis via Modal Decomposition in Undulated Cylinder Arrays — 14:47–15:00, room 372BE
+
+Additional Quant-Friendly Sessions
+- Bayesian Characterization of Explosive Sources Using Fourier Neural Operators — Tue Nov 25, 08:00–08:13, room 360AD
+- Hierarchical Bayesian Framework for Regularizing Intracardiac 4D Flow — Mon Nov 24, 17:48–18:01, room 320C
+- Bayesian Experimental Design for Model Discrepancy Calibration: An Auto-Differentiable Ensemble Kalman Inversion Approach — Sun Nov 23, 17:51–18:04, room General Assembly Center
+- Categorical Batch Bayesian Optimisation for High-Dimensional Design in Particle-Laden Flows — Sun Nov 23, 17:25–17:38, room General Assembly Center
+- Fourier-Embedded Deep Operator Networks for High-Fidelity Parametric PDE Surrogates and Inverse Optimization — Tue Nov 25, 13:16–13:29, room General Assembly Right
+- Blending Data and Physics for Reduced-Order Modeling of Spatiotemporal Chaotic Dynamics — Tue Nov 25, 08:39–08:52, room 362EF
+- Interaction of POD Modes in Canonical Pipe Flows Quantified by Transfer Entropy — Mon Nov 24, 17:35–17:48, room General Assembly Center
+- Projection-Based Reduced Order Models for Fluid Structure Interaction Problems — Mon Nov 24, 18:14–18:27, room 362EF
+- Reduced-Order Modeling and Validation of Vortical Modes in Swirling Flows — Tue Nov 25, 09:05–09:18, room 351CF
+- Data-Driven Reduced Order Models Under Physical Constraints — Tue Nov 25, 08:00–08:13, room 362EF

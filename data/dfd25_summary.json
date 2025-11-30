@@ -1,0 +1,41 @@
+{
+  "2025-11-22": {
+    "total": 4,
+    "by_type": {
+      "ORAL": 1,
+      "FOCUS": 1,
+      "MIXED": 2
+    },
+    "spotlight": []
+  },
+  "2025-11-23": {
+    "total": 107,
+    "by_type": {
+      "ORAL": 94,
+      "MIXED": 9,
+      "FOCUS": 1,
+      "INVITED": 3
+    },
+    "spotlight": []
+  },
+  "2025-11-24": {
+    "total": 90,
+    "by_type": {
+      "ORAL": 70,
+      "INVITED": 8,
+      "MIXED": 11,
+      "POSTER": 1
+    },
+    "spotlight": []
+  },
+  "2025-11-25": {
+    "total": 78,
+    "by_type": {
+      "MIXED": 4,
+      "ORAL": 66,
+      "FOCUS": 3,
+      "INVITED": 5
+    },
+    "spotlight": []
+  }
+}
